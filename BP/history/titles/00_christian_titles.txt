@@ -1,4 +1,4 @@
-### HOF Titles ###
+ï»¿### HOF Titles ###
 d_papal_state = {
 	10.1.1={
 		liege="e_roman_empire"
@@ -988,237 +988,237 @@ d_binitarian = {
 d_apostolic_church = {
 	1.1.1 = { government = theocracy_government }
 	1.1.1 = {
-		#St. Thaddeus the Apostle (1–50); omitted for regnal numbering purposes.
+		#St. Thaddeus the Apostle (1â€“50); omitted for regnal numbering purposes.
 	}
 	50.1.1 = {
-		#St. Bartholomew the Apostle (50–68); omitted for regnal numbering purposes.
+		#St. Bartholomew the Apostle (50â€“68); omitted for regnal numbering purposes.
 	}
 	68.1.1 = {
-		#St. Zacharias (68–76); omitted for regnal numbering purposes.
+		#St. Zacharias (68â€“76); omitted for regnal numbering purposes.
 	}
 	76.1.1 = {
-		#St. Zementus (76–81); omitted for regnal numbering purposes.
+		#St. Zementus (76â€“81); omitted for regnal numbering purposes.
 	}
 	81.1.1 = {
-		#St. Atrnerseh (81–97); omitted for regnal numbering purposes.
+		#St. Atrnerseh (81â€“97); omitted for regnal numbering purposes.
 	}
 	97.1.1 = {
-		#St. Mushe (97–128); omitted for regnal numbering purposes.
+		#St. Mushe (97â€“128); omitted for regnal numbering purposes.
 	}
 	128.1.1 = {
-		#St. Shahen (128–154); omitted for regnal numbering purposes.
+		#St. Shahen (128â€“154); omitted for regnal numbering purposes.
 	}
 	154.1.1 = {
-		#St. Shavarsh (151–175); omitted for regnal numbering purposes.
+		#St. Shavarsh (151â€“175); omitted for regnal numbering purposes.
 	}
 	175.1.1 = {
-		#St. Leontius (175–193); omitted for regnal numbering purposes.
+		#St. Leontius (175â€“193); omitted for regnal numbering purposes.
 	}
 	193.1.1 = {
 		#St. Lacuna (175-230); omitted for regnal numbering purposes.
 	}
 	240.1.1 = {
-		#St. Merozanes (240–270); omitted for regnal numbering purposes.
+		#St. Merozanes (240â€“270); omitted for regnal numbering purposes.
 	}
 	288.1.1 = {
-		holder = ArmenianChurch0011 #St. Gregory I the Illuminator (288–325)
+		holder = ArmenianChurch0011 #St. Gregory I the Illuminator (288â€“325)
 		liege = k_armenia
 	}
 	325.1.1 = {
-		holder = ArmenianChurch0013 #St. Aristaces I (325–333)
+		holder = ArmenianChurch0013 #St. Aristaces I (325â€“333)
 	}
 	333.1.1 = {
-		holder = ArmenianChurch0014 #St. Vrtanes I (333–341)
+		holder = ArmenianChurch0014 #St. Vrtanes I (333â€“341)
 	}
 	341.1.1 = {
-		holder = ArmenianChurch0015 #St. Husik I (341–347)
+		holder = ArmenianChurch0015 #St. Husik I (341â€“347)
 	}
 	347.1.1 = {
 		holder = ArmenianChurch0016 #Daniel I of Armenia (347)
 	}
 	348.1.1 = {
-		holder = ArmenianChurch0017 #Pharen I of Armenia (348–352)
+		holder = ArmenianChurch0017 #Pharen I of Armenia (348â€“352)
 	}
 	353.1.1 = {
 		holder = 0
 	}
 	352.1.1 = {
-		holder = ArmenianChurch0018 #St. Nerses I the Great (353–373)
+		holder = ArmenianChurch0018 #St. Nerses I the Great (353â€“373)
 	}
 	373.1.1 = {
-		holder = ArmenianChurch0019 #Sahak I (373–377)
+		holder = ArmenianChurch0019 #Sahak I (373â€“377)
 	}
 	377.1.1 = {
-		holder = ArmenianChurch0020 #Zaven I (377–381)
+		holder = ArmenianChurch0020 #Zaven I (377â€“381)
 	}
 	381.1.1 = {
-		holder = ArmenianChurch0021 #Aspuraces I (381–386)
+		holder = ArmenianChurch0021 #Aspuraces I (381â€“386)
 	}
 	386.1.1 = {
-		holder = ArmenianChurch0022 #St. Sahak II (387–428)
+		holder = ArmenianChurch0022 #St. Sahak II (387â€“428)
 	}
 	428.1.1 = {
-		holder = ArmenianChurch0023 #Brkisho of Armenia (428–432)
+		holder = ArmenianChurch0023 #Brkisho of Armenia (428â€“432)
 	}
 	432.1.1 = {
-		holder = ArmenianChurch0024 #Samuel of Armenia (432–437)
+		holder = ArmenianChurch0024 #Samuel of Armenia (432â€“437)
 	}
 	437.1.1 = {
-		holder = ArmenianChurch0025 #St. Hovsep I (437–452)
+		holder = ArmenianChurch0025 #St. Hovsep I (437â€“452)
 	}
 	452.1.1 = {
-		holder = ArmenianChurch0027 #Melitus I (452–456)
+		holder = ArmenianChurch0027 #Melitus I (452â€“456)
 	}
 	456.1.1 = {
-		holder = ArmenianChurch0028 #Moses I (456–461)
+		holder = ArmenianChurch0028 #Moses I (456â€“461)
 	}
 	461.1.1 = {
-		holder = ArmenianChurch0029 #St. Kyud I (461–478)
+		holder = ArmenianChurch0029 #St. Kyud I (461â€“478)
 	}
 	478.1.1 = {
-		holder = ArmenianChurch0030 #St. John I (478–490)
+		holder = ArmenianChurch0030 #St. John I (478â€“490)
 	}
 	490.1.1 = {
-		holder = ArmenianChurch0031 #Babken I (490–516)
+		holder = ArmenianChurch0031 #Babken I (490â€“516)
 	}
 	516.1.1 = {
-		holder = ArmenianChurch0032 #Samuel I (516–526)
+		holder = ArmenianChurch0032 #Samuel I (516â€“526)
 	}
 	526.1.1 = {
-		holder = ArmenianChurch0033 #Mushe I (526–534)
+		holder = ArmenianChurch0033 #Mushe I (526â€“534)
 	}
 	534.1.1 = {
-		holder = ArmenianChurch0034 #Sahak II (534–539)
+		holder = ArmenianChurch0034 #Sahak II (534â€“539)
 	}
 	539.1.1 = {
-		holder = ArmenianChurch0035 #Christopher I (539–545)
+		holder = ArmenianChurch0035 #Christopher I (539â€“545)
 	}
 	545.1.1 = {
-		holder = ArmenianChurch0036 #Ghevond I (545–548)
+		holder = ArmenianChurch0036 #Ghevond I (545â€“548)
 	}
 	548.1.1 = {
-		holder = ArmenianChurch0037 #Nerses II (548–557)
+		holder = ArmenianChurch0037 #Nerses II (548â€“557)
 	}
 	557.1.1 = {
-		holder = ArmenianChurch0038 #John II (557–574
+		holder = ArmenianChurch0038 #John II (557â€“574
 	}
 	574.1.1 = {
-		holder = ArmenianChurch0039 #Moses II (574–604)
+		holder = ArmenianChurch0039 #Moses II (574â€“604)
 	}
 	604.1.1 = {
 		holder = 0
 	}
 	607.1.1 = {
-		holder = ArmenianChurch0041 #Abraham I (607–615)
+		holder = ArmenianChurch0041 #Abraham I (607â€“615)
 	}
 	615.1.1 = {
-		holder = ArmenianChurch0042 #Komitas I (615–628)
+		holder = ArmenianChurch0042 #Komitas I (615â€“628)
 	}
 	628.1.1 = {
-		holder = ArmenianChurch0043 #Christopher II (628–630)
+		holder = ArmenianChurch0043 #Christopher II (628â€“630)
 	}
 	630.1.1 = {
-		holder = ArmenianChurch0044 #Ezra I (630–641)
+		holder = ArmenianChurch0044 #Ezra I (630â€“641)
 	}
 	641.1.1 = {
-		holder = ArmenianChurch0045 #Nerses III the Builder (641–661)
+		holder = ArmenianChurch0045 #Nerses III the Builder (641â€“661)
 	}
 	661.1.1 = {
-		holder = ArmenianChurch0046 #Anastasius I (661–667)
+		holder = ArmenianChurch0046 #Anastasius I (661â€“667)
 	}
 	667.1.1 = {
-		holder = ArmenianChurch0047 #Israel I (667–677)
+		holder = ArmenianChurch0047 #Israel I (667â€“677)
 	}
 	677.1.1 = {
-		holder = ArmenianChurch0048 #Sahak III (677–703)
+		holder = ArmenianChurch0048 #Sahak III (677â€“703)
 	}
 	703.1.1 = {
-		holder = ArmenianChurch0049 #Elias I (703–717)
+		holder = ArmenianChurch0049 #Elias I (703â€“717)
 	}
 	717.1.1 = {
-		holder = ArmenianChurch0050 #St. John III the Philosopher (717–728)
+		holder = ArmenianChurch0050 #St. John III the Philosopher (717â€“728)
 	}
 	728.1.1 = {
-		holder = ArmenianChurch0051 #David I (728–741)
+		holder = ArmenianChurch0051 #David I (728â€“741)
 	}
 	741.1.1 = {
-		holder = ArmenianChurch0052 #Dertad I (741–764)
+		holder = ArmenianChurch0052 #Dertad I (741â€“764)
 	}
 	764.1.1 = {
-		holder = ArmenianChurch0053 #Dertad II (764–767)
+		holder = ArmenianChurch0053 #Dertad II (764â€“767)
 	}
 	767.1.1 = {
-		holder = ArmenianChurch0054 #Sion I (767–775)
+		holder = ArmenianChurch0054 #Sion I (767â€“775)
 	}
 	775.1.1 = {
-		holder = ArmenianChurch0055 #Isaiah I (775–788)
+		holder = ArmenianChurch0055 #Isaiah I (775â€“788)
 	}
 	788.1.1 = {
-		holder = ArmenianChurch0056 #Stephen I (788–790)
+		holder = ArmenianChurch0056 #Stephen I (788â€“790)
 	}
 	790.1.1 = {
-		holder = ArmenianChurch0057 #Joab I (790–791)
+		holder = ArmenianChurch0057 #Joab I (790â€“791)
 	}
 	791.1.1 = {
-		holder = ArmenianChurch0058 #Solomon I (791–792)
+		holder = ArmenianChurch0058 #Solomon I (791â€“792)
 	}
 	792.1.1 = {
-		holder = ArmenianChurch0059 #George I (792–795)
+		holder = ArmenianChurch0059 #George I (792â€“795)
 	}
 	795.1.1 = {
-		holder = ArmenianChurch0060 #Joseph I (795–806)
+		holder = ArmenianChurch0060 #Joseph I (795â€“806)
 	}
 	806.1.1 = {
-		holder = ArmenianChurch0061 #David II (806–833)
+		holder = ArmenianChurch0061 #David II (806â€“833)
 	}
 	833.1.1 = {
-		holder = ArmenianChurch0062 #John IV (833–855)
+		holder = ArmenianChurch0062 #John IV (833â€“855)
 	}
 	855.1.1 = {
-		holder = ArmenianChurch0063 #Zacharias I (855–876)
+		holder = ArmenianChurch0063 #Zacharias I (855â€“876)
 	}
 	876.1.1 = {
-		holder = ArmenianChurch0064 #George II (877–897)
+		holder = ArmenianChurch0064 #George II (877â€“897)
 	}
 	897.1.1 = {
-		holder = ArmenianChurch0065 #Mashdotz I (897–898)
+		holder = ArmenianChurch0065 #Mashdotz I (897â€“898)
 	}
 	898.1.1 = {
-		holder = ArmenianChurch0067 #John V the Historian (898–929)
+		holder = ArmenianChurch0067 #John V the Historian (898â€“929)
 	}
 	929.1.1 = {
-		holder = ArmenianChurch0068 #Stephen II (929–930)
+		holder = ArmenianChurch0068 #Stephen II (929â€“930)
 	}
 	930.1.1 = {
-		holder = ArmenianChurch0069 #Theodore I (930–941)
+		holder = ArmenianChurch0069 #Theodore I (930â€“941)
 	}
 	941.1.1 = {
-		holder = ArmenianChurch0070 #Yeghishe I (941–946)
+		holder = ArmenianChurch0070 #Yeghishe I (941â€“946)
 	}
 	946.1.1 = {
-		holder = ArmenianChurch0072 #Ananias I (949–968)
+		holder = ArmenianChurch0072 #Ananias I (949â€“968)
 	}
 	968.1.1 = {
-		holder = ArmenianChurch0073 #Vahan I (968–969)
+		holder = ArmenianChurch0073 #Vahan I (968â€“969)
 	}
 	969.1.1 = {
-		holder = ArmenianChurch0074 #Stephen III (969–972)
+		holder = ArmenianChurch0074 #Stephen III (969â€“972)
 	}
 	972.1.1 = {
-		holder = ArmenianChurch0075 #Khachig I (973–992)
+		holder = ArmenianChurch0075 #Khachig I (973â€“992)
 	}
 	992.1.1 = {
-		holder = ArmenianChurch0077 #Sarkis I (992–1019)
+		holder = ArmenianChurch0077 #Sarkis I (992â€“1019)
 	}
 	1019.1.1 = {
-		holder = ArmenianChurch0078 #Peter I (1019–1058)
+		holder = ArmenianChurch0078 #Peter I (1019â€“1058)
 	}
 	1058.1.1 = {
 		#At this point, the office transfers to Cilician Armenia till almost the end of our timeframe.
-		holder = ArmenianChurch0079 #Khachik II of Armenia, Khachik II of Ani, Khachik II of Cilicia (1058–1065)
+		holder = ArmenianChurch0079 #Khachik II of Armenia, Khachik II of Ani, Khachik II of Cilicia (1058â€“1065)
 	}
 	1065.1.1 = {
-		holder = ArmenianChurch0080 #Gregory the Martyrophile (1066–1116)
+		holder = ArmenianChurch0080 #Gregory the Martyrophile (1066â€“1116)
 	}
 }
 

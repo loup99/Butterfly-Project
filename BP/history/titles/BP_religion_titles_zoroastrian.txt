@@ -1,4 +1,4 @@
-d_mazdayasna = {
+﻿d_mazdayasna = {
 	260.1.1 = {
 		#First Mention of Kartir
 		holder = 14001100

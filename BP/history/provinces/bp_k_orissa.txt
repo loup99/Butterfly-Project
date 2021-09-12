@@ -1,4 +1,4 @@
-#k_orissa
+﻿#k_orissa
 ##d_tosali #################################
 ###c_kataka
 # 1129 - Kataka

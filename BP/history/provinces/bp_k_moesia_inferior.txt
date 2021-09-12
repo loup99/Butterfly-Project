@@ -1,4 +1,4 @@
-# Notes:
+﻿# Notes:
 # Gepid presence extended as far as the Olt [1,2]. Roman presence was mostly limited to a route
 # straight north along the Olt river, so d_oltenia and c_polovragi [3]. The remaining mountains
 # of d_transylvanian_alps are turned dacian/dacian_pagan given lack of Roman penetration
@@ -7,7 +7,7 @@
 # [2] https://upload.wikimedia.org/wikipedia/commons/2/2b/East-Hem_500ad.jpg
 # [3] https://en.wikipedia.org/wiki/Roman_Dacia#/media/File:Roman_province_of_Dacia_(106_-_271_AD).svg
 
-# k_moesia_inferior
+﻿#k_wallachia
 
 ##d_transylvanian_alps ###################################
 

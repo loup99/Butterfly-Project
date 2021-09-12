@@ -1,4 +1,4 @@
-# Auto generated file, do not edit manually. Created using console command dump_bookmark_portraits
+﻿# Auto generated file, do not edit manually. Created using console command dump_bookmark_portraits
 # History database id:55
 bookmark_little_augustus_odoacer={
 	type=male

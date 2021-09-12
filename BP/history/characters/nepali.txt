@@ -1,4 +1,4 @@
-#Licchavi Dynasty
+﻿#Licchavi Dynasty
 
 12300 = {
 	name="Sankaradeva"
