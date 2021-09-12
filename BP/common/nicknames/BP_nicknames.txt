@@ -1,0 +1,6 @@
+﻿# NB: Add is_bad for bad nicknames
+nick_simhavikrantagami = {}
+nick_coscrach = {}
+nick_lonn = {}
+nick_dub = {}
+nick_hashim = {}
