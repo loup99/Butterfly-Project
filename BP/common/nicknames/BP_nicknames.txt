@@ -9,3 +9,7 @@ nick_the_fuller = {}
 nick_the_jew = {}
 nick_the_syrian = {}
 nick_the_elder = {}
+nick_gosgorddfawr = {}
+nick_arueu_dur = {}
+nick_gwron = {}
+nick_the_dismal = {}
