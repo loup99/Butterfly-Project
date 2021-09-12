@@ -685,7 +685,7 @@
 195 = {
 	name = "Sephelia"
 	female = yes
-	dynasty = 0
+	#dynasty = 0
 	religion = "hellenic_pagan"
 	culture = "greek"
 	170.1.1 = { birth = yes }
@@ -732,7 +732,7 @@
 200 = {
 	name = "Abeshura"
 	female = yes
-	dynasty = 1042229
+	dynasty_house = house_arsacid_georgian #Daughter of Aspacures
 	religion = "urartuism"
 	culture = "persian"
 	father = 199
@@ -826,8 +826,8 @@
 	religion = "georgian_orthodox"
 	culture = "georgian"
 	trait = "cynical"
-	trait = "envious"
-	trait = "wroth"
+	trait = "callous"
+	trait = "wrathful"
 	trait = "convict"
 	father = 206
 	380.1.1 = { birth = yes }
