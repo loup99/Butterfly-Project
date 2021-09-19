@@ -22,6 +22,7 @@ k_dacia = {
 	}
 	70.1.1 = { holder = 14000001 }
 	87.1.1 = { holder = 14000002 }
+	106.1.1 = { holder = 0 } #Suppresses "Hole in History" error
 }
 
 d_sarmuzegetusa_regia = { #Empty History
