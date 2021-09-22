@@ -1,8 +1,12 @@
 Move Bodh Gaya holy site to Bodh Gaya proper and move Mahabodhi Temple to it as well.
 
+Fix Khitan Tuyuhun chars
+
 Turkic/Arab succession laws needed for arab titles
 
 Fix death_murder_known localization (?)
+
+Changeup Flavius Baslicus to Romano-Thracian/Romano-Illyrian in line with name.
 
 ======================================
 History notes:
@@ -31,7 +35,6 @@ Or events that make ping-ponging between those churches possible?
 ======================================
 CHARACTER NOTES:
 --------------------------------------
-* Georgian/Armenian Arascids etc. need to be reworked into the new dynasty/house format
 * Persio/Georgian culture for Georgian Arsacids?
 * In particular, revisit culture/religion assumptions for the various rulers of the Georgian principalities
 * Add spouse for Rev II of Iberia (char #202) for Salome of Tiridates III
