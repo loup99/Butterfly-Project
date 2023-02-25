@@ -1,84 +1,8 @@
 ﻿name_list_roman = {
 	
 	cadet_dynasty_names = {
-			"dynn_Syagrius"
-			"dynn_Septimus_Horatius"
-			"dynn_Lucius_Crixus"
-			"dynn_Populus_Civicus"
-			"dynn_Pompus_Salvius"
-			"dynn_Hadrius_Dextus"
-			"dynn_Egnatius_Drusa"
-			"dynn_Ianuarius_Livius"
-			"dynn_Aurulius_Crixus"
-			"dynn_Lartia"
-			"dynn_Cloelia"
-			"dynn_Potitia"
-			"dynn_Marcia"
-			"dynn_Sempronia"
-			"dynn_Asclepiodotus"
-			"dynn_Aurelianus"
-			"dynn_Symmachus"
-			"dynn_Decius"
-			"dynn_Dracontius"
-			"dynn_Felix"
-			"dynn_Nepos"
-			"dynn_Crassus"
-			"dynn_Eugenius"
-			"dynn_Anicius"
-			"dynn_Valerius_Majorianus"
-			"dynn_Severus_Serpentius"
-			"dynn_Anthemius"
-			"dynn_Olybrius"
-			"dynn_Maximus"
-			"dynn_Mavortius"
-			"dynn_Signus"
-			"dynn_Africanus"
-			"dynn_Modestus"
-			"dynn_Rufinus"
-			"dynn_Drusus"
-			"dynn_Philagrius"
-			"dynn_Canis"
-			"dynn_Quintus"
-			"dynn_Athenaeus"
-			"dynn_Caesoninus"
-			"dynn_Lamia"
-			"dynn_Lentulus"
-			"dynn_Saturinus"
-			"dynn_Sabinus"
-			"dynn_Secundus"
-			"dynn_Geminus"
-			"dynn_Aelianus"
-			"dynn_Pegasus"
-			"dynn_Clemens"
-			"dynn_Fulvus"
-			"dynn_Rutilius_Gallicus"
-			"dynn_Macer"
-			"dynn_Versus"
-			"dynn_Liberius"
-			"dynn_Decius"
-			"dynn_Cassiodorus"
-			"dynn_Lucimius"
-			"dynn_Avienus"
-			"dynn_Reparatus"
-			"dynn_Probianus"
-			"dynn_Sividius"
-			"dynn_Dynamius"
-			"dynn_Glabrio"
-			"dynn_Agapitus"
-			"dynn_Saturninus"
-			"dynn_Valerius"
-			"dynn_Audax"
-			"dynn_Asellus"
-			"dynn_Asterius"
-			"dynn_Viator"
-			"dynn_Corvinus"
-			"dynn_Anicetus"
-			"dynn_Noricorum"
-			"dynn_Marcellinus"
-		}
-	
-	dynasty_names = {
-		"dynn_Syagrius"
+		"dynn_Acilius"
+		"dynn_Afranius"
 		"dynn_Septimus_Horatius"
 		"dynn_Lucius_Crixus"
 		"dynn_Populus_Civicus"
@@ -87,11 +11,11 @@
 		"dynn_Egnatius_Drusa"
 		"dynn_Ianuarius_Livius"
 		"dynn_Aurulius_Crixus"
-		"dynn_Lartia"
-		"dynn_Cloelia"
-		"dynn_Potitia"
-		"dynn_Marcia"
-		"dynn_Sempronia"
+		"dynn_Lartius"
+		"dynn_Cloelius"
+		"dynn_Potitius"
+		"dynn_Marcius"
+		"dynn_Sempronius"
 		"dynn_Asclepiodotus"
 		"dynn_Aurelianus"
 		"dynn_Symmachus"
@@ -102,12 +26,11 @@
 		"dynn_Crassus"
 		"dynn_Eugenius"
 		"dynn_Anicius"
-		"dynn_Valerius_Majorianus"
-		"dynn_Severus_Serpentius"
-		"dynn_Anthemius"
+		"dynn_Iulius_Valerius"
+		"dynn_Libius"
 		"dynn_Olybrius"
 		"dynn_Maximus"
-		"dynn_Mavortius"
+		"dynn_Egnatius"
 		"dynn_Signus"
 		"dynn_Africanus"
 		"dynn_Modestus"
@@ -117,48 +40,253 @@
 		"dynn_Canis"
 		"dynn_Quintus"
 		"dynn_Athenaeus"
-		"dynn_Caesoninus"
-		"dynn_Lamia"
-		"dynn_Lentulus"
-		"dynn_Saturinus"
+		"dynn_Calpurnius"
+		"dynn_Aelius"
+		"dynn_Cornelius"
 		"dynn_Sabinus"
-		"dynn_Secundus"
-		"dynn_Geminus"
+		"dynn_Pedanius"
+		"dynn_Ducenius"
 		"dynn_Aelianus"
 		"dynn_Pegasus"
 		"dynn_Clemens"
 		"dynn_Fulvus"
-		"dynn_Rutilius_Gallicus"
-		"dynn_Macer"
+		"dynn_Rutilius"
+		"dynn_Baebius"
 		"dynn_Versus"
 		"dynn_Liberius"
 		"dynn_Decius"
 		"dynn_Cassiodorus"
 		"dynn_Lucimius"
-		"dynn_Avienus"
 		"dynn_Reparatus"
-		"dynn_Probianus"
-		"dynn_Sividius"
-		"dynn_Dynamius"
+		"dynn_Aconius"
+		"dynn_Ecclesius"
 		"dynn_Glabrio"
 		"dynn_Agapitus"
 		"dynn_Saturninus"
 		"dynn_Valerius"
-		"dynn_Audax"
-		"dynn_Asellus"
-		"dynn_Asterius"
+		"dynn_Castalius"
+		"dynn_Turcius"
+		"dynn_Viator"
+		"dynn_Rufius"
+		"dynn_Anicetus"
+		"dynn_Noricorum"
+		"dynn_Marcellinus"
+		"dynn_Farsuleius"
+		"dynn_Lentidius"
+		"dynn_Strabonius"
+		"dynn_Tussidius"
+		"dynn_Lurius"
+		"dynn_Rufinius"
+		"dynn_Iuncius"
+		"dynn_Peducaeus"
+		"dynn_Lucceius"
+		"dynn_Sepunius"
+		"dynn_Resius"
+		"dynn_Iustius"
+		"dynn_Orbicius"
+		"dynn_Cavarasius"
+		"dynn_Iucundius"
+		"dynn_Papinius"
+		"dynn_Catienus"
+		"dynn_Cosconius"
+		"dynn_Albinovanus"
+		"dynn_Salvidius"
+		"dynn_Ampudius"
+		"dynn_Scaevinius"
+		"dynn_Nasidius"
+		"dynn_Poppaeus"
+		"dynn_Satrienus"
+		"dynn_Pomptinus"
+		"dynn_Quirinius"
+		"dynn_Ofanius"
+		"dynn_Patulcius"
+		"dynn_Terentilius"
+		"dynn_Scoedius"
+		"dynn_Tapsennius"
+		"dynn_Mescinius"
+		"dynn_Romilius"
+		"dynn_Pinnius"
+		"dynn_Nautius"
+		"dynn_Truttedius"
+		"dynn_Balonius"
+		"dynn_Matrinius"
+		"dynn_Tettidius"
+		"dynn_Umbrenus"	
+		"dynn_Bellienus"
+		"dynn_Sanquinius"
+		"dynn_Crassicius"
+		"dynn_Lemonius"
+		"dynn_Mutius"
+		"dynn_Postumulenus"
+		"dynn_Mimesius"	
+		"dynn_Pacilius"
+		"dynn_Iteius"
+		"dynn_Ianius"
+		"dynn_Acerronius"
+		"dynn_Caepasius"
+		"dynn_Lafrenius"
+		"dynn_Iasdius"
+		"dynn_Lucienus"
+		"dynn_Rullius"
+		"dynn_Spurillius"
+		"dynn_Titanius"
+		"dynn_Umbonius"
+		"dynn_Pescennius"
+		"dynn_Trebellienus"
+		"dynn_Matinius"
+		"dynn_Allienus"
+		"dynn_Istacidius"
+		"dynn_Lacerius"
+		"dynn_Pleminius"
+	}
+	
+	dynasty_names = {
+		"dynn_Acilius"
+		"dynn_Afranius"
+		"dynn_Septimus_Horatius"
+		"dynn_Lucius_Crixus"
+		"dynn_Populus_Civicus"
+		"dynn_Pompus_Salvius"
+		"dynn_Hadrius_Dextus"
+		"dynn_Egnatius_Drusa"
+		"dynn_Ianuarius_Livius"
+		"dynn_Aurulius_Crixus"
+		"dynn_Lartius"
+		"dynn_Cloelius"
+		"dynn_Potitius"
+		"dynn_Marcius"
+		"dynn_Sempronius"
+		"dynn_Asclepiodotus"
+		"dynn_Aurelianus"
+		"dynn_Symmachus"
+		"dynn_Decius"
+		"dynn_Dracontius"
+		"dynn_Felix"
+		"dynn_Nepos"
+		"dynn_Crassus"
+		"dynn_Eugenius"
+		"dynn_Anicius"
+		"dynn_Iulius_Valerius"
+		"dynn_Libius"
+		"dynn_Olybrius"
+		"dynn_Maximus"
+		"dynn_Egnatius"
+		"dynn_Signus"
+		"dynn_Africanus"
+		"dynn_Modestus"
+		"dynn_Rufinus"
+		"dynn_Drusus"
+		"dynn_Philagrius"
+		"dynn_Canis"
+		"dynn_Quintus"
+		"dynn_Athenaeus"
+		"dynn_Calpurnius"
+		"dynn_Aelius"
+		"dynn_Cornelius"
+		"dynn_Sabinus"
+		"dynn_Secundus"
+		"dynn_Ducenius"
+		"dynn_Aelianus"
+		"dynn_Pegasus"
+		"dynn_Arrecinus"
+		"dynn_Fulvus"
+		"dynn_Rutilius"
+		"dynn_Baebius"
+		"dynn_Versus"
+		"dynn_Liberius"
+		"dynn_Decius"
+		"dynn_Cassiodorus"
+		"dynn_Lucimius"
+		"dynn_Rufius"
+		"dynn_Reparatus"
+		"dynn_Aconius"
+		"dynn_Ecclesius"
+		"dynn_Glabrio"
+		"dynn_Agapitus"
+		"dynn_Saturninus"
+		"dynn_Valerius"
+		"dynn_Castalius"
+		"dynn_Turcius"
 		"dynn_Viator"
 		"dynn_Corvinus"
 		"dynn_Anicetus"
 		"dynn_Noricorum"
 		"dynn_Marcellinus"
+		"dynn_Farsuleius"
+		"dynn_Lentidius"
+		"dynn_Strabonius"
+		"dynn_Tussidius"
+		"dynn_Lurius"
+		"dynn_Rufinius"
+		"dynn_Iuncius"
+		"dynn_Peducaeus"
+		"dynn_Lucceius"
+		"dynn_Sepunius"
+		"dynn_Resius"
+		"dynn_Iustius"
+		"dynn_Orbicius"
+		"dynn_Canidius"
+		"dynn_Iucundius"
+		"dynn_Papinius"
+		"dynn_Catienus"
+		"dynn_Cosconius"
+		"dynn_Albinovanus"
+		"dynn_Salvidius"
+		"dynn_Ampudius"
+		"dynn_Scaevinius"
+		"dynn_Nasidius"
+		"dynn_Poppaeus"
+		"dynn_Satrienus"
+		"dynn_Pomptinus"
+		"dynn_Quirinius"
+		"dynn_Ofanius"
+		"dynn_Patulcius"
+		"dynn_Terentilius"
+		"dynn_Scoedius"
+		"dynn_Tapsennius"
+		"dynn_Mescinius"
+		"dynn_Romilius"
+		"dynn_Pinnius"
+		"dynn_Nautius"
+		"dynn_Truttedius"
+		"dynn_Balonius"	
+		"dynn_Matrinius"
+		"dynn_Tettidius"
+		"dynn_Umbrenus"	
+		"dynn_Bellienus"
+		"dynn_Sanquinius"
+		"dynn_Crassicius"
+		"dynn_Lemonius"
+		"dynn_Mutius"
+		"dynn_Postumulenus"
+		"dynn_Mimesius"	
+		"dynn_Pacilius"
+		"dynn_Iteius"
+		"dynn_Ianius"
+		"dynn_Acerronius"
+		"dynn_Caepasius"
+		"dynn_Lafrenius"
+		"dynn_Iasdius"
+		"dynn_Lucienus"
+		"dynn_Rullius"
+		"dynn_Spurillius"
+		"dynn_Titanius"
+		"dynn_Umbonius"
+		"dynn_Pescennius"
+		"dynn_Trebellienus"
+		"dynn_Matinius"
+		"dynn_Allienus"
+		"dynn_Istacidius"
+		"dynn_Lacerius"
+		"dynn_Pleminius"
+		"dynn_Tuticius"
 	}
 	
 	male_names = {
 		Aemilianus Aemilius Aetius Agrippa Albinus Alexander Anastasius Anicius Annius Antidius Antoninus Antonius Arcadius Arsacius Aulus Aurelianus Aurelius
 		Auxentius Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
 		Constantius Cornelius Crassus Cyprianus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus Fortunatus
-		Gaius Galerius Gallienus Gallus Germanus Gnaeus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus Iulianus
+		Gaius Galerius Gallienus Gallus Germanus Gnaeus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus Iulianus
 		Iulius Iulius-Caesar Iustinus Iustinianus Iunius Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerius Numerianus Octavianus Octavius Otho
 		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
@@ -478,13 +606,13 @@ name_list_romano_raetian = {
 		"dynn_Flavius Marcellinus"
 		"dynn_Flavius Vetulenus"
 		"dynn_Ingenuus"
-		"dynn_Iulifus Iuvenis"
 		"dynn_Iulius"
 		"dynn_Iulius Amandus"
 		"dynn_Iulius Candidus"
 		"dynn_Iulius Cato"
 		"dynn_Iulius Clemens"
 		"dynn_Iulius Iullinus"
+		"dynn_Iulius Iuvenis"	
 		"dynn_Iulius Macrianus"
 		"dynn_Iulius Saturninus"
 		"dynn_Laetus"
@@ -549,13 +677,13 @@ name_list_romano_raetian = {
 		"dynn_Flavius Marcellinus"
 		"dynn_Flavius Vetulenus"
 		"dynn_Ingenuus"
-		"dynn_Iulifus Iuvenis"
 		"dynn_Iulius"
 		"dynn_Iulius Amandus"
 		"dynn_Iulius Candidus"
 		"dynn_Iulius Cato"
 		"dynn_Iulius Clemens"
 		"dynn_Iulius Iullinus"
+		"dynn_Iulius Iuvenis"	
 		"dynn_Iulius Macrianus"
 		"dynn_Iulius Saturninus"
 		"dynn_Laetus"
@@ -601,7 +729,7 @@ name_list_romano_raetian = {
 		Euphemius Eusebius Eutychianus Evangelus Excingomarus
 		Faustus Felix Flavius Florianus Florentius Gabriel
 		Georgius Germanus Goutus Gregorius Heracles Hieronymus
-		Hilarius Honorius Iacobus Iantullus Iantumarus Icco Innocentius Iohannes
+		Hilarius Honorius Iacobus Iantullus Iantumarus Icco Innocentius Ioannes
 		Iomatius Iosephus Itto Itucus Itulus Iulianus Iulius
 		Iustinus Iustus Laurentius Lavus Leo Leontius Liberius Liccaius Lotto Lucas
 		Lucco Lucius Maleio Marcianus Marcus
@@ -610,7 +738,7 @@ name_list_romano_raetian = {
 		Monnus Montissius Mosgaitus Muntissius Nemeto Nepos Nertomarus Nivius Nicolaus
 		Nonnus Numerius Orestes Pagadanus
 		Palumbus Pametus Panes Patalus Paterio Paulinus Paulus Peregrinus Petrus
-		Phillipus Pientissimus Potentinus
+		Philippus Pientissimus Potentinus
 		Pusinnus Quirinus Redsatus Ressatus
 		Ressimarus Restumaros Romaeus Romanus Rufus Rumo Ruscus
 		Sabinus Sacer Salvianus Sammus Satullus Saturninus
@@ -669,7 +797,6 @@ name_list_romano_gallic = {
 		"dynn_Amulius"
 		"dynn_Solicitas"
 		"dynn_Avitus"
-		"dynn_Acilius"
 		"dynn_Apollinaris"
 		"dynn_Himelco"
 		"dynn_Nicomactix"
@@ -678,6 +805,50 @@ name_list_romano_gallic = {
 		"dynn_Eunius"
 		"dynn_Nicetianus"
 		"dynn_Ennodius"
+		"dynn_Consius"
+		"dynn_Mansuetius"
+		"dynn_Nigidius"
+		"dynn_Calventius"
+		"dynn_Velloudius"
+		"dynn_Lallius"
+		"dynn_Capitonius"
+		"dynn_Usulenus"
+		"dynn_Albucius"
+		"dynn_Sammius"
+		"dynn_Talussius"
+		"dynn_Sacconius"	
+		"dynn_Intercillus"
+		"dynn_Militius"
+		"dynn_Secundius"
+		"dynn_Balbius"
+		"dynn_Ignius"
+		"dynn_Rusonius"
+		"dynn_Contessius"
+		"dynn_Atisius"
+		"dynn_Tauricius"
+		"dynn_Vettienus"
+		"dynn_Parredius"
+		"dynn_Adgennius"
+		"dynn_Victorinius"
+		"dynn_Toutius"
+		"dynn_Abrius"
+		"dynn_Ulattius"
+		"dynn_Curvelius"
+		"dynn_Solimarius"
+		"dynn_Rusticinius"
+		"dynn_Decmanius"
+		"dynn_Veveius"
+		"dynn_Giamullius"
+		"dynn_Firmidius"
+		"dynn_Carantius"
+		"dynn_Elvonius"
+		"dynn_Sumaronius"
+		"dynn_Histimenius"
+		"dynn_Sennius"
+		"dynn_Immunius"
+		"dynn_Ferridius"
+		"dynn_Gratius"
+		"dynn_Dudistius"
 	}
 	
 	dynasty_names = {
@@ -692,7 +863,6 @@ name_list_romano_gallic = {
 		"dynn_Amulius"
 		"dynn_Solicitas"
 		"dynn_Avitus"
-		"dynn_Acilius"
 		"dynn_Apollinaris"
 		"dynn_Himelco"
 		"dynn_Nicomactix"
@@ -701,6 +871,51 @@ name_list_romano_gallic = {
 		"dynn_Eunius"
 		"dynn_Nicetianus"
 		"dynn_Ennodius"
+		"dynn_Consius"
+		"dynn_Mansuetius"
+		"dynn_Nigidius"
+		"dynn_Calventius"
+		"dynn_Velloudius"
+		"dynn_Lallius"
+		"dynn_Capitonius"
+		"dynn_Usulenus"
+		"dynn_Albucius"
+		"dynn_Sacconius"
+		"dynn_Talussius"	
+		"dynn_Sammius"
+		"dynn_Intercillus"
+		"dynn_Militius"
+		"dynn_Secundius"
+		"dynn_Balbius"
+		"dynn_Ignius"
+		"dynn_Rusonius"
+		"dynn_Contessius"
+		"dynn_Agillius"
+		"dynn_Atisius"
+		"dynn_Tauricius"
+		"dynn_Vettienus"
+		"dynn_Parredius"
+		"dynn_Adgennius"
+		"dynn_Victorinius"
+		"dynn_Toutius"
+		"dynn_Abrius"
+		"dynn_Ulattius"
+		"dynn_Curvelius"
+		"dynn_Solimarius"
+		"dynn_Rusticinius"
+		"dynn_Decmanius"
+		"dynn_Veveius"
+		"dynn_Giamullius"
+		"dynn_Firminius"
+		"dynn_Carantius"
+		"dynn_Elvonius"
+		"dynn_Sumaronius"
+		"dynn_Histimenius"
+		"dynn_Sennius"
+		"dynn_Immunius"
+		"dynn_Ferridius"
+		"dynn_Gratius"
+		"dynn_Dudistius"
 	}
 	
 	male_names = {
@@ -743,7 +958,6 @@ name_list_romano_african = {
 	cadet_dynasty_names = {
 		"dynn_Thevestiu"
 		"dynn_Gaius"
-		"dynn_Naevia"
 		"dynn_Nicola"
 		"dynn_Yuba"
 		"dynn_Dorsale"
@@ -800,7 +1014,6 @@ name_list_romano_african = {
 	dynasty_names = {
 		"dynn_Thevestiu"
 		"dynn_Gaius"
-		"dynn_Naevia"
 		"dynn_Nicola"
 		"dynn_Yuba"
 		"dynn_Dorsale"
@@ -894,8 +1107,6 @@ name_list_romano_african = {
 	pat_grm_name_chance = 20
 	mat_grm_name_chance = 40
 	mother_name_chance = 5
-	
-	founder_named_dynasties = yes
 }
 name_list_romano_noric = {
 	cadet_dynasty_names = {
@@ -951,7 +1162,7 @@ name_list_romano_noric = {
 		"dynn_Marcius Iulianus"
 		"dynn_Maximianus"
 		"dynn_Memmius"
-		"dynn_Memmius Apollonaris"
+		"dynn_Memmius Apollinaris"
 		"dynn_Moderatus"
 		"dynn_Mogiancus"
 		"dynn_Nepotianus"
@@ -1053,7 +1264,7 @@ name_list_romano_noric = {
 		"dynn_Marcius Iulianus"
 		"dynn_Maximianus"
 		"dynn_Memmius"
-		"dynn_Memmius Apollonaris"
+		"dynn_Memmius Apollinaris"
 		"dynn_Moderatus"
 		"dynn_Mogiancus"
 		"dynn_Nepotianus"
@@ -1117,7 +1328,7 @@ name_list_romano_noric = {
 		Euphemius Eusebius Eutychianus Evangelus Excingomarus
 		Faustus Felix Flavius Florianus Florentius Gabriel
 		Georgius Germanus Goutus Gregorius Heracles Hieronymus
-		Hilarius Honorius Iacobus Iantullus Iantumarus Icco Innocentius Iohannes
+		Hilarius Honorius Iacobus Iantullus Iantumarus Icco Innocentius Ioannes
 		Iomatius Iosephus Itto Itucus Itulus Iulianus Iulius
 		Iustinus Iustus Laurentius Lavus Leo Leontius Liberius Liccaius Lotto Lucas
 		Lucco Lucius Maleio Marcianus Marcus
@@ -1126,7 +1337,7 @@ name_list_romano_noric = {
 		Monnus Montissius Mosgaitus Muntissius Nemeto Nepos Nertomarus Nivius Nicolaus
 		Nonnus Numerius Orestes Pagadanus
 		Palumbus Pametus Panes Patalus Paterio Paulinus Paulus Peregrinus Petrus
-		Phillipus Pientissimus Potentinus
+		Philippus Pientissimus Potentinus
 		Pusinnus Quirinus Redsatus Ressatus
 		Ressimarus Restumaros Romaeus Romanus Rufus Rumo Ruscus
 		Sabinus Sacer Salvianus Sammus Satullus Saturninus
@@ -1295,30 +1506,96 @@ name_list_romano_thracian = {
 		"dynn_Exiguus"
 		"dynn_Caninius"
 		"dynn_Opidius"
-		"dynn_Gabinius"
 		"dynn_Taurus"
-		"dynn_Germane"
+		{ "dynnp_of" "dynn_Germane" }
 		"dynn_Gallus"
+		"dynn_Considius"
+		"dynn_Veturius"
+		"dynn_Maetennius"
+		"dynn_Cabellius"
+		"dynn_Anconteius"
+		"dynn_Nolanius"
+		"dynn_Marrenus"	
+		"dynn_Rascanius"
+		"dynn_Samacius"
+		"dynn_Pacuvius"
+		"dynn_Fabricius"
+		"dynn_Aufonius"
+		"dynn_Sippius"
+		"dynn_Cassicius"
+		"dynn_Villanius"
+		"dynn_Tironius"
+		"dynn_Sentilius"
+		"dynn_Genucius"
+		"dynn_Disius"
+		"dynn_Canuleius"
+		"dynn_Nemonius"
+		"dynn_Ersidius"
+		"dynn_Truccius"	
+		"dynn_Catonius"
+		"dynn_Barbius"
+		"dynn_Aburius"	
+		"dynn_Numitorius"
+		"dynn_Manneius"
+		"dynn_Uttiedius"
+		"dynn_Titovius"
+		"dynn_Vetidius"
+		"dynn_Carullius"
+		"dynn_Scurricius"
+		"dynn_Aprilius"
 	}
 	
 	dynasty_names = {
 		"dynn_Exiguus"
 		"dynn_Caninius"
 		"dynn_Opidius"
-		"dynn_Gabinius"
 		"dynn_Taurus"
-		"dynn_Germane"
+		{ "dynnp_of" "dynn_Germane" }
 		"dynn_Gallus"
+		"dynn_Considius"
+		"dynn_Veturius"
+		"dynn_Maetennius"
+		"dynn_Cabellius"
+		"dynn_Anconteius"
+		"dynn_Nolanius"
+		"dynn_Marrenus"	
+		"dynn_Rascanius"
+		"dynn_Samacius"
+		"dynn_Pacuvius"
+		"dynn_Fabricius"
+		"dynn_Aufonius"
+		"dynn_Sippius"
+		"dynn_Cassicius"
+		"dynn_Villanius"
+		"dynn_Tironius"
+		"dynn_Sentilius"
+		"dynn_Genucius"
+		"dynn_Disius"
+		"dynn_Canuleius"
+		"dynn_Nemonius"
+		"dynn_Ersidius"
+		"dynn_Truccius"	
+		"dynn_Catonius"
+		"dynn_Barbius"
+		"dynn_Aburius"	
+		"dynn_Numitorius"
+		"dynn_Manneius"
+		"dynn_Uttiedius"
+		"dynn_Titovius"
+		"dynn_Vetidius"
+		"dynn_Carullius"
+		"dynn_Scurricius"
+		"dynn_Aprilius"
 	}
 	
 	male_names = {
-		Emilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
+		Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -1329,7 +1606,7 @@ name_list_romano_thracian = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa
+		Verina Victoria Vigilantia Viviana
 	}
 	#dynasty_of_location_suffix = "dynns_us"
 	
@@ -1342,28 +1619,95 @@ name_list_romano_thracian = {
 	pat_grm_name_chance = 50
 	mat_grm_name_chance = 50
 	mother_name_chance = 0
-	
-	founder_named_dynasties = yes
 }
 name_list_romano_illyrian = {
 	cadet_dynasty_names = {
 		"dynn_Constantinus"
 		"dynn_Flavius"
+		"dynn_Artorius"
+		"dynn_Nerfinius"
+		"dynn_Barbaricius"
+		"dynn_Dirutius"
+		"dynn_Varenus"	
+		"dynn_Garinius"
+		"dynn_Ligustius"
+		"dynn_Obultronius"
+		"dynn_Tatusius"	
+		"dynn_Saufeius"
+		"dynn_Murcidius"
+		"dynn_Tarius"
+		"dynn_Eupunius"
+		"dynn_Feredius"
+		"dynn_Urgulanius"
+		"dynn_Palpellius"
+		"dynn_Crispuleius"
+		"dynn_Florius"
+		"dynn_Veiedius"
+		"dynn_Subulnius"
+		"dynn_Aebutius"
+		"dynn_Baebidius"
+		"dynn_Mescenius"
+		"dynn_Tarconius"
+		"dynn_Utius"	
+		"dynn_Billianius"
+		"dynn_Titusidius"
+		"dynn_Ancharenus"
+		"dynn_Camusenus"
+		"dynn_Aprofennius"
+		"dynn_Buzetius"
+		"dynn_Quesidius"
+		"dynn_Aeronius"
+		"dynn_Vesidius"
+		"dynn_Tloantius"
+		"dynn_Axenna"
 	}
 	
 	dynasty_names = {
 		"dynn_Constantinus"
 		"dynn_Flavius"
+		"dynn_Artorius"
+		"dynn_Barbaricius"
+		"dynn_Dirutius"
+		"dynn_Varenus"
+		"dynn_Garinius"
+		"dynn_Ligustius"
+		"dynn_Obultronius"
+		"dynn_Tatusius"	
+		"dynn_Saufeius"
+		"dynn_Murcidius"
+		"dynn_Tarius"
+		"dynn_Eupunius"
+		"dynn_Feredius"
+		"dynn_Urgulanius"
+		"dynn_Palpellius"
+		"dynn_Crispuleius"
+		"dynn_Florius"
+		"dynn_Veiedius"
+		"dynn_Subulnius"
+		"dynn_Aebutius"
+		"dynn_Baebidius"
+		"dynn_Mescenius"
+		"dynn_Tarconius"
+		"dynn_Utius"	
+		"dynn_Billianius"
+		"dynn_Titusidius"
+		"dynn_Ancharenus"
+		"dynn_Camusenus"
+		"dynn_Aprofennius"
+		"dynn_Quesidius"
+		"dynn_Aeronius"
+		"dynn_Vesidius"
+		"dynn_Axenna"
 	}
 	
 	male_names = {
-		Emilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
+		Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -1374,7 +1718,7 @@ name_list_romano_illyrian = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa
+		Verina Victoria Vigilantia Viviana
 	}
 	#dynasty_of_location_suffix = "dynns_us"
 	
@@ -1387,8 +1731,6 @@ name_list_romano_illyrian = {
 	pat_grm_name_chance = 50
 	mat_grm_name_chance = 50
 	mother_name_chance = 0
-	
-	founder_named_dynasties = yes
 }
 name_list_romano_pannonian = {
 	cadet_dynasty_names = {
@@ -1510,51 +1852,129 @@ name_list_romano_pannonian = {
 }
 name_list_romano_hispanic = {
 	cadet_dynasty_names = {
-		"dynn_Liberius"
-		"dynn_Decius"
-		"dynn_Cassiodorus"
-		"dynn_Lucimius"
-		"dynn_Avienus"
-		"dynn_Reparatus"
-		"dynn_Iustinianus"
-		"dynn_Verinus"
-		"dynn_Marcianus"
-		"dynn_Theodosius"
+		"dynn_Trebicius"
+		"dynn_Sicinius"
+		"dynn_Argentilius"
+		"dynn_Curiatius"
+		"dynn_Mamilius"
+		"dynn_Fullonius"
+		"dynn_Bovecius"
+		"dynn_Petreius"
+		"dynn_Subrius"
+		"dynn_Allius"
 		"dynn_Plancarius"
 		"dynn_Agricolus"
 		"dynn_Opimius"
 		"dynn_Laelius"
 		"dynn_Flavius"
 		"dynn_Memorius"
+		"dynn_Sertorius"
+		"dynn_Tridius"
+		"dynn_Acclenus"	
+		"dynn_Melvius"
+		"dynn_Caburius"
+		"dynn_Satullius"
+		"dynn_Flaminius"
+		"dynn_Publicius"
+		"dynn_Coronius"
+		"dynn_Fuficius"
+		"dynn_Statorius"
+		"dynn_Corellius"
+		"dynn_Vividius"		
+		"dynn_Larinius"	
+		"dynn_Castricius"
+		"dynn_Rantulanus"
+		"dynn_Caesius"
+		"dynn_Meranius"
+		"dynn_Vagellius"
+		"dynn_Papirius"
+		"dynn_Cantius"
+		"dynn_Lucretius"
+		"dynn_Titulius"
+		"dynn_Ferronius"
+		"dynn_Albanius"
+		"dynn_Iustulenus"
+		"dynn_Naevidius"
+		"dynn_Duccius"
+		"dynn_Sapidius"
+		"dynn_Trebius"
+		"dynn_Moschius"
+		"dynn_Tongius"
+		"dynn_Nigrinius"
+		"dynn_Cuspius"
+		"dynn_Alpetius"
+		"dynn_Pellieius"
+		"dynn_Mancinius"
+		"dynn_Pupius"
+		"dynn_Cincius"
 	}
 	
 	dynasty_names = {
-		"dynn_Liberius"
-		"dynn_Decius"
-		"dynn_Cassiodorus"
-		"dynn_Lucimius"
-		"dynn_Avienus"
-		"dynn_Reparatus"
-		"dynn_Iustinianus"
-		"dynn_Verinus"
-		"dynn_Marcianus"
-		"dynn_Theodosius"
+		"dynn_Trebicius"
+		"dynn_Sicinius"
+		"dynn_Argentilius"
+		"dynn_Curiatius"
+		"dynn_Mamilius"
+		"dynn_Fullonius"
+		"dynn_Bovecius"
+		"dynn_Petreius"
+		"dynn_Subrius"
+		"dynn_Allius"
 		"dynn_Plancarius"
 		"dynn_Agricolus"
 		"dynn_Opimius"
 		"dynn_Laelius"
 		"dynn_Flavius"
 		"dynn_Memorius"
+		"dynn_Sertorius"
+		"dynn_Tridius"
+		"dynn_Acclenus"	
+		"dynn_Melvius"
+		"dynn_Caburius"
+		"dynn_Satullius"
+		"dynn_Flaminius"
+		"dynn_Publicius"
+		"dynn_Coronius"
+		"dynn_Fuficius"
+		"dynn_Statorius"
+		"dynn_Corellius"
+		"dynn_Vividius"		
+		"dynn_Larinius"	
+		"dynn_Castricius"
+		"dynn_Rantulanus"
+		"dynn_Caesius"
+		"dynn_Meranius"
+		"dynn_Vagellius"
+		"dynn_Papirius"
+		"dynn_Cantius"
+		"dynn_Lucretius"
+		"dynn_Titulius"
+		"dynn_Ferronius"
+		"dynn_Albanius"
+		"dynn_Iustulenus"
+		"dynn_Naevidius"
+		"dynn_Duccius"
+		"dynn_Sapidius"
+		"dynn_Trebius"
+		"dynn_Moschius"
+		"dynn_Tongius"
+		"dynn_Nigrinius"
+		"dynn_Cuspius"
+		"dynn_Alpetius"
+		"dynn_Pellieius"
+		"dynn_Mancinius"
+		"dynn_Pupius"
+		"dynn_Cincius"
 	}
 	
 	male_names = {
 		Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -1565,7 +1985,7 @@ name_list_romano_hispanic = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa
+		Verina Victoria Vigilantia Viviana
 	}
 	#dynasty_of_location_suffix = "dynns_us"
 	
@@ -1626,7 +2046,7 @@ name_list_romano_frank = {
 		Eduardus Eberhardus Stephanus Adalbertus Audomarus Hadrianus Alanus Aldabertus Aldericus Adelphonsus Amalricus Amadeus Ansellus Andreas Angelbertus Antoninus Arbogastes
 		Archembaldus Arnaldus Arnulphus Albericus Aymardus Bartholomaeus Balduinus Benedictus Berengarius Bernhardus Bertrandus Boamundus Boso Burchardus Centullus Carolus
 		Ebbo Ingelramnus Odo Eustathius Fulco Franciscus Fridericus Gerhardus Ioscelinus Gilduinus
-		Gisilbertus Aegidius Godefridus Guichardus Guilielmus Guido Elias Hamelinus Heimericus Herbertus Hildebertus Hugo Humbertus Iacobus Iohannes Iordanes
+		Gisilbertus Aegidius Godefridus Guichardus Guilielmus Guido Elias Hamelinus Heimericus Herbertus Hildebertus Hugo Humbertus Iacobus Ioannes Iordanes
 		Iulianus Leo Leonhardus Lotharius Lupus Matthaeus Mauritius Nicolaus Olgerus Humfridus Urso Otho Paganus Philippus Petrus Raimbaldus Radulphus Regimundus Reginaldus
 		Richardus Robaldus Sabaricus Sigismundus Simon Theobaldus Theodericus Thomas Ivo
 	}
@@ -1753,7 +2173,7 @@ name_list_romano_dacian = {
 		Mogia Mustiela Olpia Palatina Patron_e Patrun_e_lla Paula Paullina Placiegia Plaucia Plauciella
 		Pre_ie_pta Pubia Pulcieria Pumpeia Puppiea Rustieciana Sabina Salloscia Salun_ina Salvan_e_lla
 		Scantiella Sie_rena Sie_rgia Sie_vera Sie_verina Silvia Spadusa Sulpecia Tarsiella Tietiana Unoria
-		Uptavia Urtiensia Valleria Vegelancia Veptoria Verina Vivianaa
+		Uptavia Urtiensia Valleria Vegelancia Veptoria Verina Viviana
 	}
 	
 	dynasty_of_location_prefix = "dynnp_e"
@@ -1770,51 +2190,89 @@ name_list_romano_dacian = {
 }
 name_list_romano_aramean = {
 	cadet_dynasty_names = {
-		"dynn_Bartolomeus"
-		"dynn_Lazarus"
-		"dynn_Thaddeys"
-		"dynn_Christophoros"
-		"dynn_Eugenios"
-		"dynn_Iordanes"
-		"dynn_Kyrillos"
-		"dynn_Raziel"
-		"dynn_Clopas"
-		"dynn_Addai"
+		"dynn_Plaetorius"	
+		"dynn_Mucimeius"
+		"dynn_Felicius"
+		"dynn_Varronius"
+		"dynn_Helenius"
+		"dynn_Oppius"
+		"dynn_Velius"
+		"dynn_Comisius"
+		"dynn_Fabullius"
+		"dynn_Rabilius"
+		"dynn_Autronius"
+		"dynn_Verginius"
+		"dynn_Laberius"
+		"dynn_Sallienus"
+		"dynn_Careius"	
+		"dynn_Popilius"
+		"dynn_Masculinius"
+		"dynn_Loreius"
+		"dynn_Sentius"	
+		"dynn_Papirius"	
+		"dynn_Fecenius"
+		"dynn_Statilius"
+		"dynn_Tarquitius"
+		"dynn_Magnius"
+		"dynn_Pullius"
+		"dynn_Ceccius"
+		"dynn_Allius"
+		"dynn_Lucilius"
+		"dynn_Hetereius"
+		"dynn_Trebellius"
+		"dynn_Cossutius"
+		"dynn_Rubrenus"
+		"dynn_Ateius"
+		"dynn_Carmaeus"
+		"dynn_Vicinius"
 	}
 	
 	dynasty_names = {
-		"dynn_Bartolomeus"
-		"dynn_Lazarus"
-		"dynn_Thaddeys"
-		"dynn_Christophoros"
-		"dynn_Eugenios"
-		"dynn_Iordanes"
-		"dynn_Kyrillos"
-		"dynn_Raziel"
-		"dynn_Clopas"
-		"dynn_Addai"
+		"dynn_Plaetorius"
+		"dynn_Mucimeius"
+		"dynn_Felicius"
+		"dynn_Varronius"
+		"dynn_Helenius"
+		"dynn_Oppius"
+		"dynn_Velius"
+		"dynn_Comisius"
+		"dynn_Fabullius"
+		"dynn_Rabilius"
+		"dynn_Autronius"
+		"dynn_Verginius"
+		"dynn_Laberius"
+		"dynn_Sallienus"
+		"dynn_Careius"	
+		"dynn_Popilius"
+		"dynn_Masculinius"
+		"dynn_Loreius"
+		"dynn_Sentius"	
+		"dynn_Papirius"	
+		"dynn_Fecenius"
+		"dynn_Statilius"
+		"dynn_Tarquitius"
+		"dynn_Magnius"
+		"dynn_Pullius"
+		"dynn_Ceccius"
+		"dynn_Allius"
+		"dynn_Lucilius"
+		"dynn_Hetereius"
+		"dynn_Trebellius"
+		"dynn_Cossutius"
+		"dynn_Rubrenus"
+		"dynn_Ateius"
+		"dynn_Carmaeus"
+		"dynn_Vicinius"
 	}
 	
 	male_names = {
-		Abahu Achan Addai Adlai Avahu Azai Bustan Caiaphas Cephas Chozai Chuma Clopas Dikla Foma
-		Hozai Idra Kelaya Lasizio Lazar Lazarus Lazer Lebbaeus Maadai Macabee Nahor Niv Petros 
-		Petuel Rachim Raziel Saad Saba Salu Samal Shafer Shalmai Shamir Shai Shemaiah Sherega Shovai 
-		Tadd Taddeo Taddeus Tadeo Tadeusz Talmai Tam Tamas Tavi Tavis Tavish Thad Thaddee Thaddeys 
-		Thamhais Thomas Tomkin Yanai Zerika Adrianos Akakios Alexandros Alexios Anastasios Anatolios Andreas Andronikos Anthemios Anthimos Antiochos Antonios Apollonios Arsenios Artemios Athanasios Bardas
-		Bartholomaios Basileios Belisarios Boethios Bosporios Christophoros Chrysanthos Chrysogonos Damianos Daniel David Demetrios Diogenes Dionysios Dorotheos Eirenaios Eudoxios Eustratios
-		Eugenios Euphemios Eusebios Eustathios Evangelos Gabriel Gennadios Georgios Gerasimos Germanos Gregoras Gregorios Hektorios Helias Herakleios Hierotheos Himerios
-		Hippolytos Hypatios Iakobos Ignatios Innokentios Ioannes Ioannikios Iordanes Ioseph Isaakios Isaias Isidoros Ioulianos Ioustinianos Ioustinos Kaisarios
-		Kallinikos Kallistos Komitas Konstantinos Konstantios Konstas Kosmas Kyriakos Kyrillos Kyros Laurentios Lazaros Leon Leontios Loukas Makarios Manuel Markos
-		Matthaios Maurikios Maximos Megistos Meletios Methodios Michael Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Niphon Orestes Pamphilios Pankratios Pantoleon Paschalis
-		Pavlos Pelagios Petros Philaretos Philippos Philotheos Phokas Photios Polykarpos Porphyrios Prokopios Pyrros Raphail Romanos Sabas Samuel Serapion Sebastianos Sergios Stephanos
-		Staurakios Symeon Symmachos Theocharistos Theodoros Theodosios Theodotos Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas Tiberios Traianos
-		Timotheos Tryphon Valerios Zacharias Zenobios Zenon Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
+        Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -1825,23 +2283,19 @@ name_list_romano_aramean = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa Anina Bustan Chanina Chasina Dikla Diklah Diklit Hanina Hasna Ketina Kitra Magdala Martha
-		Nahara Nura Reuma Saba Samantha Adriane Agathe Agne Aikaterine Alexandra Alexeia Anastasia Anna Anthe Anthousa Antipatra Apollonia Athanasia Barbara Basillike
-		Chrysogone Damiane Demetra Dionysia Dorothea Aigidia Eirene Elaiodora Epiphania Eudokia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Hypatia Ioanna Ioulia Iouliana Ioustina Kale Konstantia Konstantine Kyra Kyriake
-		Leontia Margarita Maria Markia Martha Melissa Nikarete Nikoletta Nonna Parthena Pavlina Pelagia Philippa Phyllis Rhodanthe Romane Romylia Sergia Sibylla
-		Simonis Sophia Stephania Thekla Theochariste Theodora Theodosia Theognosia Theoktiste Theophano Thomais Xene Zenobia Zoe
+		Verina Victoria Vigilantia Viviana
 	}
+        #dynasty_of_location_suffix = "dynns_us"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
 	
-	dynasty_of_location_prefix = "dynnp_mn" # So "mn "
-	
-	bastard_dynasty_prefix = "dynnp_nsabat" # So "nsabat"
-	
-	patronym_suffix_male = "dynnpat_suf__il" # So "'il"
-	patronym_suffix_female = "dynnpat_suf__illi" # So "'illi"
-	always_use_patronym = yes
-	
-	#dynasty_title_names = no
-	founder_named_dynasties = yes
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
 }
 #Others
 name_list_frankish = {
@@ -2014,13 +2468,13 @@ name_list_romano_vandalic = {
 	}
 	
 	male_names = {
-		Emilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
+		Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -2031,7 +2485,7 @@ name_list_romano_vandalic = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa
+		Verina Victoria Vigilantia Viviana
 	}
 	#dynasty_of_location_suffix = "dynns_us"
 	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -2066,13 +2520,13 @@ name_list_illyro_roman = {
 	}
 
 	male_names = {
-		Emilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
+		Aemilianus Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelianus Aurelius
 		Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantinus
-		Constantiusius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
-		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Iohannes Iovianus
+		Constantius Cornelius Crassus Decimus Decius Diocletianus Domitianus Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florianus
+		Gaius Galerius Gallienus Gallus Germanus Gordianus Gracchus Gratianus Hadrianus Herculius Honorius Ioannes Iovianus
 		Iulianus Iulius Iulius-Caesar Iunius Iustinus Iustinianus Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
 		Marcellus Marcianus Marcus Marinus Marius Martinus Maximianus Maximinus Maximus Nepotianus Nerva Numerianus Octavianus Octavius Otho
-		Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+		Paulinus Paulus Petronius Philippus Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
 		Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
 		Titius Titus Traianus Urbanus Valens Valentinianus Valerianus Valerius Venantius Vespasianus Victor Victorinus Vigilius Vitalianus Volusianus
 	}
@@ -2083,7 +2537,7 @@ name_list_illyro_roman = {
 		Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
 		Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
 		Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-		Verina Victoria Vigilantia Vivianaa
+		Verina Victoria Vigilantia Viviana
 	}
 	#dynasty_of_location_suffix = "dynns_us"
 	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -2255,7 +2709,7 @@ name_list_romano_gothic = {
 		Egenio Eborico Effronio Eldegotus Eldeverto Eylas Elisco Elmoncio Elpericius Engomiro Envolatus Ermaldus Ermefredo Ermarius Eugienadus Eularius Evorido Eitor Emilio 
 		Falgildus Falbatus Faldramno Fallustius Fandino Fannus Faragotus Farildus Farino Fatalis Faustinus Feles Felmirus Ferreniolus Ferriolo Ferronio Fidel Flacidius Flagino Flaminus Fructu
 		Flamolinus Flaianus Flazentius Flazinus Florenzo Florenus Floridio Fofinus Fonso Fortis Froaringus Francito Francolino Fredegildus Fredericus Fridiverto Froiellus Fromilio
-		Fructosus Frumarius Frumellus Fulgentius
+		Fructuosus Frumarius Frumellus Fulgentius
 		Gademiro Gadinus Gaidus Galiano Gallo Gandaricus Ganito Gattelus Gaudioso Gavellus Gavinio Gellas Generosus Geodefredo Genitrigus Geodesindus Geraldus Gerardus Germanus Gesmondo Getericus Gillus
 		Gitio Godefredus Gobes Godito Gomadus Gomeleus Gomidius Gratianus Gratus Gratinus Gemnadius Germias
 		Honnecus Henricus Hectus Holovio Honestus Honoratus Honorius Horatio Horlonio

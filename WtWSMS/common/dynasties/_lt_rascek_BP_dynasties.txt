@@ -400,21 +400,22 @@ roman_dynasty_iunius_1 = { #Junii Bruti
 	name = dynn_Iunius
 	culture = roman
 }
-roman_dynasty_avidius = {
+romano_aramean_dynasty_avidius = {
 	name = dynn_Avidius
-	culture = roman
+	culture = romano_aramean
 }
 roman_dynn_euphratensis = {
 	name = dynn_Pegasus
 	culture = roman
 }
 roman_dynn_orestes_wife = {
+	prefix = dynnp_of
 	name = dynn_Neapolis #Based on Barbaria living there when Romulus was exiled
 	culture = roman
 }
 roman_dynn_gabinius = {
 	name = dynn_Gabinius
-	culture = romano_thracian
+	culture = roman
 }
 
 #North Germanic Dynasties

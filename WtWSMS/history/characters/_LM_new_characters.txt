@@ -91,7 +91,7 @@ spartokid09 = {
 	-345.1.1 = { death = yes }
 }
 spartokid10 = {
-	name = "Apolonios"
+	name = "Apollonios"
 	dynasty = thracian_dynn_spartokid
 	religion = "hellenic_pagan"
 	culture = "bosporan"
@@ -1850,29 +1850,30 @@ HeruliChar102 = {
 96055_wife_ancestor_1 = {
 	name = "Barbaria"
 	female = yes
-	dynasty = roman_dynn_gabinius
+	dynasty = roman_dynasty_vibius_2
 	religion = "hellenic_pagan"
 	culture = "roman"
-	father = 96055_wife_ancestor_2
-	410.1.1 = { birth = yes }
+	father = VibiusPlaceholder
+	mother = BarbariaWifeOfVibius
+	420.1.1 = { birth = yes }
 	470.1.1 = { death = yes }
 }
 96055_wife_ancestor_2 = {
-	name = "Probianus_Pompeianus"
+	name = "Pompeianus"
 	dynasty = roman_dynn_gabinius
 	religion = "hellenic_pagan"
 	culture = "roman"
 	father = 96055_wife_ancestor_3
-	385.1.1 = { birth = yes }
+	375.1.1 = { birth = yes }
 	445.1.1 = { death = yes }
 }
 96055_wife_ancestor_3 = {
-	name = "Barbarus_Pompeianus" # proconsul of Africa between 400 and 401, praefectus urbi of Rome in 409
+	name = "Pompeianus" # proconsul of Africa between 400 and 401, praefectus urbi of Rome in 409
 	dynasty = roman_dynn_gabinius
 	religion = "hellenic_pagan"
 	culture = "roman"
 	father = 96055_wife_ancestor_4
-	350.1.1 = { birth = yes }
+	355.1.1 = { birth = yes }
 	409.2.1 = {
 		death = {
 			death_reason = death_murder # he was murdered by a mob
@@ -1880,22 +1881,22 @@ HeruliChar102 = {
 	}
 }
 96055_wife_ancestor_4 = {
-	name = "Vettius_Probianus" # praefectus urbi of Rome in 377
+	name = "Probianus" # praefectus urbi of Rome in 377
 	dynasty = roman_dynn_gabinius
 	religion = "hellenic_pagan"
 	culture = "roman"
 	father = 96055_wife_ancestor_5
 	mother = 96055_wife_ancestor_6
 	325.1.1 = { birth = yes }
-	378.1.1 = { death = yes }
+	380.1.1 = { death = yes }
 }
 96055_wife_ancestor_5 = {
-	name = "Barbarus_Pompeianus" # governor of Sardinia and Corsica in 333
+	name = "Pompeianus" # governor of Campania in 333
 	dynasty = roman_dynn_gabinius
 	religion = "hellenic_pagan"
 	culture = "roman"
 	father = 96055_wife_ancestor_7
-	300.1.1 = { birth = yes }
+	290.1.1 = { birth = yes }
 	324.1.1 = {
 		add_spouse = 96055_wife_ancestor_6 # Vettia
 	}
@@ -1904,19 +1905,21 @@ HeruliChar102 = {
 96055_wife_ancestor_6 = {
 	name = "Vettia" # daughter of Gaius Vettius Cossinius Rufinus
 	female = yes
-	dynasty = roman_dynasty_vettius
+	dynasty = romano_african_dynasty_vettius
 	religion = "hellenic_pagan"
-	culture = "roman"
+	culture = "romano_african"
 	father = 1008307 # Gaius Vettius Cossinius Rufinus
+	mother = PetroniaProbiana
 	300.1.1 = { birth = yes }
 	360.1.1 = { death = yes }
 }
 96055_wife_ancestor_7 = {
-	name = "Barbarus_Probianus" # vir consularis
+	name = "Probianus" # vir consularis
 	dynasty = roman_dynn_gabinius
 	religion = "hellenic_pagan"
 	culture = "roman"
-	280.1.1 = { birth = yes }
+	father = GabiniusPlaceholder3	
+	260.1.1 = { birth = yes }
 	340.1.1 = { death = yes }
 }
 1005002_father = {
@@ -1925,7 +1928,7 @@ HeruliChar102 = {
 	religion = "nicene"
 	culture = "romano_gallic"
 	380.1.1 = { birth = yes }
-	324.1.1 = {
+	405.1.1 = {
 		add_spouse = 1005001 # Syagria
 	}
 	435.1.1 = { death = yes }
@@ -2224,7 +2227,7 @@ HeruliChar102 = {
 	mother = 74425_daughter
 	418.1.1 = { birth = yes }
 	450.1.1 = { religion = "arian" }
-	470.1.1 = { add_spouse = 74407 } # Alypia, daughter of emperor Anthemius
+	467.1.1 = { add_spouse = 74407 } # Alypia, daughter of emperor Anthemius
 	472.8.18 = { death = yes }
 }
 190040_sister = {
@@ -2320,7 +2323,7 @@ HeruliChar102 = {
 
 #Vandals
 190071_brother_1 = {
-	name = "Ammatas" # PLRE vol. 3 Ammatas
+	name = "Amata" # PLRE vol. 3 Ammatas
 	dynasty = 1042171
 	religion = "arian"
 	culture = "vandalic"
@@ -2338,7 +2341,7 @@ HeruliChar102 = {
 	533.1.1 = { death = { death_reason = death_battle } }
 }
 190071_nephew = {
-	name = "Gebamund" # PLRE vol. 3 Gebemundus
+	name = "Gibamunds" # PLRE vol. 3 Gebemundus
 	dynasty = 1042171
 	religion = "arian"
 	culture = "vandalic"

@@ -7,16 +7,120 @@ k_oriens = {
 	1.1.1={
 		#set_global_flag = syria_palaestina
 	}
+	-23.1.1={
+		holder = MarcusVipsaniusAgrippa # Marcus Vipsanius Agrippa
+		government = gubernatorial_government
+	}
+	-13.1.1={
+		holder = MarcusTitius # Marcus Titius
+	}
+	-9.1.1={
+		holder = 0
+	}
+	-7.1.1={
+		holder = PubliusQuinctiliusVarusTheElder # Publius Quinctilius Varus
+	}
+	-4.1.1={
+		holder = 190054 # Lucius Calpurnius Piso Caesoninus
+	}
+	1.1.1={
+		holder = 1102651 # Gaius Julius Caesar Vipsanianus
+	}
+	4.1.1={
+		holder = LuciusVolusiusSaturninus1 # Lucius Volusius Saturninus
+	}
+	6.1.1={
+		holder = 0
+	}
+	12.1.1={
+		holder = QuintusCaeciliusMetellusCreticusSilanus # Quintus Caecilius Metellus Creticus Silanus
+	}
+	17.1.1={
+		holder = 0
+	}
+	22.1.1={
+		holder = 190076 # Lucius Aelius Lamia
+	}
+	32.1.1={
+		holder = 0
+	}
+	35.1.1={
+		holder = LuciusVitellius1 # Lucius Vitellius
+	}
+	39.1.1={
+		holder = 0
+	}
+	45.1.1={
+		holder = GaiusCassiusLonginus5 # Gaius Cassius Longinus
+	}
+	50.1.1={
+		holder = GaiusUmmidiusDurmiusQuadratus # Gaius Ummidius Durmius Quadratus
+	}
+	60.1.1={
+		holder = GnaeusDomitiusCorbulo2 # Gnaeus Domitius Corbulo
+	}
+	63.1.1={
+		holder = 0
+	}
+	70.1.1={
+		holder = LuciusJuniusCaesenniusPaetus1 # Lucius Junius Caesennius Paetus
+	}
+	72.1.1={
+		holder = 0
+	}
+	73.1.1={
+		holder = 1101000 # Marcus Ulpius Traianus
+	}
+	78.1.1={
+		holder = LuciusCeioniusCommodus1 # Lucius Ceionius Commodus
+	}
+	82.1.1={
+		holder = 0
+	}
+	100.1.1={
+		holder = 1007508 # Gaius Antius Aulus Julius Quadratus
+	}
+	104.1.1={
+		holder = 0
+	}
+	114.1.1={
+		holder = 1007507 # Gaius Julius Quadratus Bassus
+	}
+	115.1.1={
+		holder = 0
+	}
+	117.1.1={
+		holder = 145278 # Publius Aelius Hadrianus
+	}
+	117.8.11={
+		holder = LuciusCatiliusSeverus # Lucius Catilius Severus
+	}
+	119.1.1={
+		holder = 0
+	}
+	157.1.1={
+		holder = LuciusAttidiusCornelianus1 # Lucius Attidius Cornelianus
+	}
+	163.1.1={
+		holder = 1009023 # Marcus Annius Libo
+	}
+	163.12.1={
+		holder = 0
+	}	
 	166.1.1={
 		holder=1102663 # Avidius Cassius
-		government = gubernatorial_government
 	}
 	175.7.1={
 		holder=0
 	}
+	179.1.1={
+		holder = 145273 # Publius Helvius Pertinax
+	}
+	182.1.1={
+		holder = 0
+	}
 	330.1.1={
 		holder = 190016 # Lollianus
-		#vice_royalty = yes
 	}
 	336.1.1={
 		holder=190017 # Felicianus
@@ -38,7 +142,7 @@ k_oriens = {
 		liege = e_roman_empire
 	}
 	364.1.1={
-		holder=190022 # Eutolmius Tatianus (Flavius Tatianus in the files)
+		holder=190022 # Eutolmius Tatianus
 	}
 	380.1.1={
 		holder=190024 # Tuscianus
@@ -826,10 +930,46 @@ d_arabia = {
 	638.1.1 = { change_development_level = 5 } #Muslim Conquest of Levant
 	700.1.1 = { change_development_level = 6 }
 	#Rulers
-	390.1.1={
-		holder = 1300838 #Herodes, praeses (East) L IV/E V
+	107.1.1={
+		holder = GaiusClaudiusSeverus #Gaius Claudius Severus
 		liege = k_oriens
 		government = gubernatorial_government
+	}
+	116.1.1={
+		holder = 0
+	}
+	150.1.1={
+		holder = LuciusAttidiusCornelianus1 #Lucius Attidius Cornelianus
+	}
+	151.1.1={
+		holder = 0
+	}
+	200.1.1={
+		holder = LuciusMariusPerpetuus3 #Lucius Marius Perpetuus
+	}
+	203.1.1={
+		holder = 0
+	}
+	212.1.1={
+		holder = LuciusAlfeniusAvitianus1 #Lucius Alfenius Avitianus
+	}
+	215.1.1={
+		holder = 0
+	}
+	246.1.1={
+		holder = CaeliusFelix3 #Caelius Felix
+	}
+	247.1.1={
+		holder = 0
+	}
+	258.1.1={
+		holder = ViriusLupus1 #Virius Lupus
+	}
+	259.1.1={
+		holder = 0
+	}
+	390.1.1={
+		holder = 1300838 #Herodes, praeses (East) L IV/E V
 	}
 	430.1.1={
 		holder = 1300741 #Fl. Philocalus, dux et praeses Arabiae ? V
@@ -1135,51 +1275,9 @@ c_beirut = {
 	}
 }
 c_tripoli = {
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024
-	}
-	382.1.1={
-		holder=190050
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"	
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -1315,6 +1413,9 @@ d_libanensis = {
 	500.1.1={
 		holder = 1300997 #Asiaticus, dux of Phoenice Libanensis 512/518
 	}
+	528.1.1={
+		holder = Buzes #Buzes
+	}
 	540.1.1={ 
 		holder=0
 	}
@@ -1341,6 +1442,9 @@ c_homs = {
 	}
 	500.1.1={
 		holder = 1300997 #Asiaticus
+	}
+	528.1.1={
+		holder = Buzes #Buzes
 	}
 	540.1.1={ 
 		holder=487012 # Abdushams banu Anizzah 
@@ -1371,6 +1475,9 @@ c_damascus = {
 	}
 	500.1.1={
 		holder = 1300997 #Asiaticus
+	}
+	528.1.1={
+		holder = Buzes #Buzes
 	}
 	540.1.1={ 
 		holder=487012 # Abdushams banu Anizzah 
@@ -1419,6 +1526,9 @@ c_baalbek = {
 	500.1.1={
 		holder = 1300997 #Asiaticus
 	}
+	528.1.1={
+		holder = Buzes #Buzes
+	}
 	540.1.1={ 
 		holder=487012 # Abdushams banu Anizzah 
 	}
@@ -1463,55 +1573,10 @@ c_palmyra = {
 
 #Development by county
 d_syria = {
-	330.1.1={
-		holder=190016 
-		government = gubernatorial_government
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	#381.1.1={
-	#	holder=190025 
-	#}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"
+		government = gubernatorial_government	
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -1643,51 +1708,9 @@ c_antiocheia = {
 	1.1.1 = {
 		#set_global_flag = pat_antioch
 	}
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"	
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -1937,51 +1960,9 @@ c_shayzar = { #c_archa history
 	638.1.1 = { change_development_level = 3 } #Muslim Conquest of Levant
 	700.1.1 = { change_development_level = 4 }
 	#Ruler
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -2110,51 +2091,9 @@ c_qinnasrin = { #c_antiocheia history
 	638.1.1 = { change_development_level = 5 } #Muslim Conquest of Levant
 	700.1.1 = { change_development_level = 6 }
 	#Rulers
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -2283,51 +2222,9 @@ c_aleppo = { #c_antiocheia history (changed from c_aleppo history)
 	638.1.1 = { change_development_level = 5 } #Muslim Conquest of Levant
 	700.1.1 = { change_development_level = 6 }
 	#Rulers
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
-	392.12.1 = {
-		holder = 1301123 # Romulianus
-	}#end in half of 393
 	395.1.1 = {
 		holder = 1300782 # Archelaus
+		liege = "e_byzantium"
 	}
 	396.4.1 = {
 		holder = 1300783 # Claudianus
@@ -2660,52 +2557,10 @@ d_cyprus = {
 	638.1.1 = { change_development_level = 5 } #Muslim Conquest of Levant
 	700.1.1 = { change_development_level = 6 }
 	#Rulers
-	
-	# Given to holders of Oriens fornow
-	330.1.1={
-		holder=190016 
-		government = gubernatorial_government
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
 	395.1.1 = {
 		holder = 1300384 #Theodorus
 		liege = k_oriens
+		government = gubernatorial_government	
 	}
 	443.1.1 = {
 		holder = 1300385 #Uranius
@@ -2733,47 +2588,6 @@ d_cyprus = {
 	}
 }
 c_nicosia = { #c_limisol (elimination)
-	# Given to holders of Oriens fornow
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
 	395.1.1 = {
 		holder = 1300384 #Theodorus
 		liege = k_oriens
@@ -2804,47 +2618,6 @@ c_nicosia = { #c_limisol (elimination)
 	}
 }
 c_famagusta = {
-	# Given to holders of Oriens fornow
-	330.1.1={
-		holder=190016 
-	}
-	336.1.1={
-		holder=190017 
-	}
-	353.1.1={
-		holder = 1301029 # Honoratus
-	}
-	354.6.1={
-		holder=190018 # Nebridius
-	}
-	358.1.1={
-		holder=190019 
-	}
-	362.1.1={
-		holder=190020 
-	}
-	363.1.1={
-		holder=190021 
-		liege = "e_byzantium"
-	}
-	364.1.1={
-		holder=190022 
-	}
-	380.1.1={
-		holder=190024 
-	}
-	382.1.1={
-		holder=190050 
-	}
-	383.1.1={
-		holder=190023
-	}
-	384.1.1={
-		holder=190051
-	}
-	385.1.1={
-		holder=190052
-	}
 	395.1.1 = {
 		holder = 1300384 #Theodorus
 		liege = k_oriens

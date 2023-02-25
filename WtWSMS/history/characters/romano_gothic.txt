@@ -47,7 +47,6 @@
 
 189075 = {
 	name = "Ovida"	#General to Nepos
-	dynasty = 1042307
 	religion = "nicene"
 	culture = "ostrogothic" ##### Changed from Vanilla: CK2 romano_gothic
 	trait = "education_martial_3"
@@ -207,18 +206,11 @@
 	#senator, patricius, MVM (in Africa)
 	dynasty = 1042535
 	religion = nicene
-	culture = ostrogothic ##### Changed from Vanilla: CK2 romano_gothic
+	culture = roman ##### Changed from Vanilla: CK2 romano_gothic
 	father = 36616
 	trait = craven
 	500.1.1 = {
 		birth = yes
-	}
-	516.1.1 = { #Romanized
-		trait = roman_nostalgia
-		effect = {
-			learn_language = language_latin
-			learn_language = language_greek
-		}
 	}
 	520.1.1 = {
 		add_spouse = 1004001		# Praejecta

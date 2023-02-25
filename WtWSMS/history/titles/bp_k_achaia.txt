@@ -82,7 +82,7 @@ d_athens = {
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
+		holder=AndreasProconsulOfAchaia
 		liege = k_macedonia
 	}
 	468.1.1={
@@ -122,11 +122,18 @@ c_attica = { #c_atheniai history (direct)
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
+		holder = AndreasProconsulOfAchaia
 		liege = k_macedonia
 	}
 	468.1.1={
 		liege = k_illyria_prefect
+	}
+	475.1.1={
+		holder = Theagenes # Theagenes, archon
+		liege = d_achaia
+	}
+	485.1.1={
+		holder = Nicagoras5 # Nicagoras, archon
 	}
 	490.1.1={
 		holder=221702
@@ -166,11 +173,11 @@ c_boeotia = { #c_hellas history
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
-		liege = k_macedonia
+		holder=Theagenes
+		liege = d_achaia
 	}
-	468.1.1={
-		liege = k_illyria_prefect
+	485.1.1={
+		holder=Nicagoras5
 	}
 	490.1.1={
 		holder=221702
@@ -210,11 +217,15 @@ c_aetolia = { #c_arta history
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
+		holder=Theagenes
 		liege = k_macedonia
 	}
 	468.1.1={
-		liege = k_illyria_prefect
+		holder=221702
+		liege = "k_illyria_prefect"
+	}
+	485.1.1={
+		holder=Nicagoras5
 	}
 	490.1.1={
 		holder=221702
@@ -234,37 +245,97 @@ c_aetolia = { #c_arta history
 
 #Development by county
 d_achaia = {
+	-27.1.1={
+		holder = GaiusSulpiciusGalba2 # Gaius Sulpicius Galba
+		liege = "e_roman_empire"
+		government = gubernatorial_government
+	}
+	-23.1.1={
+		holder = 0
+	}
+	-3.1.1={
+		holder = LuciusAquiliusFlorusTurcianusGallus # Lucius Aquilius Florus Turcianus Gallus
+	}
+	-2.1.1={
+		holder = 0
+	}
+	91.1.1={
+		holder = TitusAvidiusQuietus1 # Titus Avidius Quietus
+	}
+	92.1.1={
+		holder = GaiusAvidiusNigrinus1 # Gaius Avidius Nigrinus
+	}
+	93.1.1={
+		holder = 0
+	}
+	105.1.1={
+		holder = GaiusAvidiusNigrinus2 # Gaius Avidius Nigrinus
+	}
+	110.1.1={
+		holder = 0
+	}
+	192.1.1={
+		holder = GaiusCaesoniusMacerRufinus # Gaius Caesonius Macer Rufinus
+	}
+	193.1.1={
+		holder = 0
+	}
 	211.1.1={
 		holder=1007513
-		liege = "e_byzantium"
-		government = gubernatorial_government
 	}
 	212.1.1={
 		holder=0
 	}
 	220.1.1={
 		holder=1007513
-		liege = "e_byzantium"
 	}
 	221.1.1={
 		holder=0
 	}
 	225.1.1={
 		holder=1007514
-		liege = "e_byzantium"
 	}
 	226.1.1={
 		holder=0
 	}
 	230.1.1={
 		holder=1007514
-		liege = "e_byzantium"
 	}
 	231.1.1={
 		holder=0
 	}
+	285.1.1={
+		holder = LuciusTurraniusGratianus # Lucius Turranius Gratianus
+	}
+	286.1.1={
+		holder = 0
+	}
+	305.1.1={
+		holder = 1008307 # Gaius Vettius Cossinius Rufinus
+	}
+	306.1.1={
+		holder = 0
+	}
+	319.1.1={
+		holder = 1900015 # Aurelius Valerius Tullianus Symmachus
+	}
+	320.1.1={
+		holder = 0
+	}
+	319.1.1={
+		holder = 1900015 # Aurelius Valerius Tullianus Symmachus
+	}
 	330.1.1={
-		#vice_royalty=yes
+		holder = 1001613 # Ceionius Rufius Albinus
+	}
+	331.1.1={
+		holder = 0
+	}
+	350.1.1={
+		holder = RufiusFestusAvienus2 # Rufius Festus Avienus
+	}
+	351.1.1={
+		holder = 0
 	}
 	395.1.1 = {
 		holder = 1301128 # Fl. Severus Aetius
@@ -279,7 +350,7 @@ d_achaia = {
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
+		holder=AndreasProconsulOfAchaia
 		liege = k_macedonia
 	}
 	468.1.1={
@@ -325,8 +396,21 @@ c_achaia = {
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=215000 
-		liege = "d_achaia"
+		holder=AndreasProconsulOfAchaia
+		liege = k_macedonia
+	}
+	468.1.1={
+		liege = k_illyria_prefect
+	}
+	510.1.1 = {
+		holder = 1300179 # Victor
+	}
+	524.1.1={
+		holder=221702
+		liege = "k_illyria_prefect"
+	}
+	550.1.1={
+		holder=221703
 	}
 }
 c_korinthos = {
@@ -353,8 +437,21 @@ c_korinthos = {
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=215000 
-		liege = "d_achaia"
+		holder=AndreasProconsulOfAchaia
+		liege = k_macedonia
+	}
+	468.1.1={
+		liege = k_illyria_prefect
+	}
+	510.1.1 = {
+		holder = 1300179 # Victor
+	}
+	524.1.1={
+		holder=221702
+		liege = "k_illyria_prefect"
+	}
+	550.1.1={
+		holder=221703
 	}
 }
 c_messenia = { #c_methone history (direct)
@@ -381,8 +478,21 @@ c_messenia = { #c_methone history (direct)
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=215000 
-		liege = "d_achaia"
+		holder=AndreasProconsulOfAchaia
+		liege = k_macedonia
+	}
+	468.1.1={
+		liege = k_illyria_prefect
+	}
+	510.1.1 = {
+		holder = 1300179 # Victor
+	}
+	524.1.1={
+		holder=221702
+		liege = "k_illyria_prefect"
+	}
+	550.1.1={
+		holder=221703
 	}
 }
 c_laconia = { #c_monemvasia history (direct)
@@ -436,7 +546,7 @@ c_cephalonia = {
 		liege = k_macedonia
 	}
 	465.1.1={
-		holder=Nicagoras4
+		holder=AndreasProconsulOfAchaia
 		liege = k_macedonia
 	}
 	468.1.1={
@@ -526,10 +636,16 @@ d_krete = {
 	600.1.1 = { change_development_level = 5 }
 	700.1.1 = { change_development_level = 9 }
 	#Rulers
-	395.1.1 = {
-		holder = 1300382 # Fortunatianus Servilius
+	230.1.1 = {
+		holder = GnaeusPetroniusProbatusJuniorJustus # Gnaeus Petronius Probatus Justus
 		liege = k_egypt #should be k_illyria_prefect
 		government = gubernatorial_government
+	}
+	231.1.1 = {
+		holder = 0
+	}
+	395.1.1 = {
+		holder = 1300382 # Fortunatianus Servilius
 	}
 	413.1.1 = {
 		holder = 1300383 # Callinicus

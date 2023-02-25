@@ -538,6 +538,9 @@ c_auvergne = {
 		holder = 190066 # Alareiks II
 		government = subroman_government
 	}
+	506.1.1 = {
+		holder = 190066 # Alareiks II
+	}
 	507.1.1={
 		holder = 40
 		liege = k_franks
@@ -597,7 +600,7 @@ c_auvergne = {
 		holder = 30029 # Chlothar II Meroving
 	}
 }
-c_clermont_sur_allier = { #c_auvergne history
+c_clermont_sur_allier = {
 	#Development
 	1.1.1 = { change_development_level = 3 }
 	200.1.1 = { change_development_level = 6 }
@@ -2341,11 +2344,10 @@ c_rouergue = {
 		government = subroman_government
 	}
 	507.1.1={
-		holder = 40
 		liege = "k_franks"
 	}
-	511.1.1={
-		holder = 106524 # Theuderic Meroving 
+	517.1.1={ 
+		holder = 1005011 # Ferreolus of Rodez
 	}
 	525.1.1={
 		holder = 1300601 #Sigivaldus
@@ -2526,11 +2528,16 @@ c_beziers = {
 	453.1.1={ 
 		holder=74428 # Þiudareiks
 	}
+	462.1.1={ 
+		holder=Consentius2 # Consentius
+	}
 	475.1.1={
 		liege=d_narbonensis_prima
-		holder=1000509 #Flavius Probus
 	}
 	485.1.1={
+		liege=k_visigoths
+	}
+	490.1.1={
 		liege=k_visigoths
 		holder=190066 #Alareiks II
 	}
@@ -3453,9 +3460,9 @@ c_venaissin = {
 		liege = k_visigoths #Pretty sure Arles was part of the visigothic kingdom at this point
 	}
 	479.1.1={ 
-		holder=30 #Aiwarekis
+		holder=1000504 #Firminus
 	}
-	484.12.28={
+	485.1.1={
 		holder=190066 #Alareiks II
 	}
 	507.1.1={

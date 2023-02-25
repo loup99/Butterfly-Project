@@ -999,7 +999,7 @@
 }
 
 36064 = {
-	name = "Fredebald"
+	name = "Fridubalth"
 	dynasty = 10424626
 	religion = "arian"
 	culture = "vandalic"
@@ -1012,7 +1012,7 @@
 }
 
 36065 = {
-	name = "Gailar"
+	name = "Geilarith"
 	dynasty = 10424626
 	religion = "arian"
 	culture = "vandalic"
@@ -1026,7 +1026,7 @@
 }
 
 36067 = {
-	name = "Maioric"
+	name = "Maiorix"
 	dynasty = 10424626
 	religion = "arian"
 	culture = "vandalic"
@@ -1060,7 +1060,7 @@
 }
 
 36068 = {
-	name = "Wisimar"
+	name = "Armogas"
 	# Armogas Silingi
 	dynasty = 10424626
 	religion = "arian"
@@ -1075,24 +1075,24 @@
 }
 
 36069 = {
-	name = "Muritta"
-	# Muritta Silingi
+	name = "Munifrida"
+	# Munifrida Silingi
 	female = yes
 	dynasty = 10424626
 	religion = "arian"
 	culture = "vandalic"
-	father = 36064
-	382.1.1 = {
+	father = 36065
+	452.1.1 = {
 		birth = yes
 	}
-	435.1.1 = {
+	495.1.1 = {
 		death = yes
 	}
 }
 
 36070 = {
 	name = "Dagila"
-	# Dagila Dagiling
+	# Dagila Victohali
 	dynasty = 10424627
 	religion = "arian"
 	culture = "vandalic"
@@ -1105,7 +1105,7 @@
 }
 
 36071 = {
-	name = "Ariafrid"
+	name = "Harifridus"
 	dynasty = 10424627
 	religion = "arian"
 	culture = "vandalic"
@@ -1179,7 +1179,7 @@
 }
 
 36078 = {
-	name = "Flavius_Aetius"	# PLRE vol.2 Fl. Aetius 7
+	name = "Aetius"	# PLRE vol.2 Fl. Aetius 7
 	# General and consul of 432, 437 and 446
 	dynasty = 10424631
 	religion = "nicene"
@@ -1290,7 +1290,9 @@
 	# Antonius Marcellinus
 	dynasty = 10424634
 	religion = "hellenic_pagan"
-	culture = "roman"
+	culture = "romano_hispanic"
+	father = AntoniusMarcellinus1
+	mother = AmantiaMarina
 	295.1.1 = {
 		birth = yes
 	}
@@ -1301,10 +1303,10 @@
 
 36085 = {
 	name = "Proculus"
-	# (Aradius Valerius) Proculus
-	dynasty = 10424635
-	religion = "nicene"
-	culture = "roman"
+	# Proculus Aradius
+	dynasty = 1042324
+	religion = "hellenic_pagan"
+	culture = "romano_african"
 	father = LuciusAradiusValeriusProculus
 	320.1.1 = {
 		birth = yes
@@ -1330,32 +1332,38 @@
 
 36087 = {
 	name = "Probinus"
-	# Petronius Probins
+	# Petronius Probinus
 	dynasty = 10424637
 	religion = "nicene"
 	culture = "roman"
-	300.1.1 = {
+	father = PetroniusProbianus
+	mother = AniciaWifeOfPetroniusProbianus	
+	305.1.1 = {
 		birth = yes
 	}
-	346.1.1 = {
+	328.1.1 = {
+		add_spouse = ClaudiaWifeOfPetroniusProbinus
+	}
+	350.1.1 = {
 		death = yes
 	}
 }
 
 36088 = {
-	name = "Sextus_Claudius"
-	# Sextus Claudius Petronus Probus
+	name = "Probus"
+	# Sextus Claudius Petronius Probus
 	dynasty = 10424637
 	religion = "nicene"
 	culture = "roman"
 	father = 36087
-	340.1.1 = {
+	mother = ClaudiaWifeOfPetroniusProbinus
+	328.1.1 = {
 		birth = yes
 	}
-	370.1.1 = {
+	376.1.1 = {
 		add_spouse = 1006001
 	}
-	395.1.1 = {
+	388.1.1 = {
 		death = yes
 	}
 }
@@ -1373,6 +1381,9 @@
 	mother = 1006012
 	398.1.1 = {
 		birth = yes
+	}
+	413.1.1 = {
+		trait = devoted
 	}
 	440.1.1 = {
 		death = yes
@@ -1579,7 +1590,7 @@
 	356.1.1 = {
 		birth = yes
 	}
-	391.1.1 = {
+	392.9.1 = {
 		death = yes
 	}
 }
@@ -1598,7 +1609,7 @@
 	370.1.1 = {
 		birth = yes
 	}
-	394.9.8 = {
+	394.9.6 = {
 		death = yes
 	}
 }
@@ -1670,11 +1681,10 @@
 	religion = "germanic_pagan"
 	culture = "old_frankish"
 	father = 36108
-	sexuality = homosexual
 	460.1.1 = {
 		birth = yes
 	}
-	480.1.1 = { set_relation_lover = character:36112 }
+	476.1.1 = { set_relation_friend = character:36112 }
 	509.1.1 = {
 		death = yes
 	}
@@ -1716,11 +1726,13 @@
 	dynasty = 10424643
 	religion = "germanic_pagan"
 	culture = "old_frankish"
-	sexuality = homosexual
 	trait = education_diplomacy_4
 	diplomacy = 10
 	460.1.1 = {
 		birth = yes
+	}
+	476.1.1 = {
+		employer = 36109
 	}
 	509.1.1 = {
 		death = yes
@@ -4891,6 +4903,7 @@
 	dynasty = 1042288
 	religion = "nicene"
 	culture = "roman"
+	father = PlaceholderSonOfCuropalateNomus
 	506.1.1 = {
 		birth = yes
 	}
@@ -7054,16 +7067,18 @@
 #36565 taken up #
 36566 = {
 	name = "Leontios"
-	# Leontios Heraklites
+	# Leontios Herakleites
 	dynasty = 1042526
 	religion = "hellenic_pagan"
 	culture = "greek"
-	#father = 36563 #wrong ID, couldn't find real father in PLRE
-	360.1.1 = {
+	father = Apsines4
+	365.1.1 = {
 		birth = yes
 	}
-	421.9.2 = {
-		employer = 70533 #Theodesius; Arcadius was dead by 408
+	393.1.1 = {
+		add_spouse = UnnamedWifeOfSophistLeontius
+	}
+	420.1.1 = {
 		death = yes
 	}
 }
@@ -7076,12 +7091,12 @@
 	religion = "nicene"
 	culture = "greek"
 	father = 36566
+	mother = UnnamedWifeOfSophistLeontius
 	#trait = sympathy_pagans
-	403.1.1 = {
+	393.1.1 = {
 		birth = yes
-		employer = 70519
 	}
-	463.1.1 = {
+	453.1.1 = {
 		death = yes
 	}
 }
@@ -7093,13 +7108,11 @@
 	religion = "nicene"
 	culture = "greek"
 	father = 36566
+	mother = UnnamedWifeOfSophistLeontius	
 	trait = compassionate
 	trait = zealous
-	413.1.1 = { birth = yes }
-	421.9.2 = {
-		employer = 70533 #Theodesius; Arcadius was dead by 408
-	}
-	478.1.1 = {
+	403.1.1 = { birth = yes }
+	468.1.1 = {
 		death = yes
 	}
 }
@@ -7171,7 +7184,7 @@
 }
 
 36576 = {
-	name = "Longinus"	#PLRE vol. 2 Longinus 6
+	name = "Longinos"	#PLRE vol. 2 Longinus 6
 	# Longinius, brother of Zeno and Consul of 486 and 490
 	dynasty = 1022187
 	religion = "nicene"
@@ -7224,7 +7237,7 @@
 }
 
 36579 = {
-	name = "Arcadia"	#PLRE vol. 2 Arcadia 2
+	name = "Arkadia"	#PLRE vol. 2 Arcadia 2
 	# Arcadia
 	female = yes
 	#dynasty=1042529
@@ -7299,7 +7312,7 @@
 
 #365814 - available
 365815 = {
-	name = "Basiliscus" # son of Armatus
+	name = "Basiliskos" # son of Armatus
 	dynasty = 1022189 # Really branch off of Verinus dynasty
 	religion = "nicene"
 	culture = "greek"
@@ -7351,8 +7364,15 @@
 	dynasty = 1042298
 	religion = "nicene"
 	culture = "romano_gallic"
+	trait = shrewd
+	trait = brave
+	trait = generous
+	trait = education_martial_4
 	father = 74403
 	442.1.1 = {
+		birth = yes
+	}
+	456.10.17 = {
 		birth = yes
 		add_pressed_claim = title:e_wre
 		add_pressed_claim = title:e_byzantium
@@ -7428,6 +7448,8 @@
 	father = 36603
 	460.1.1 = {
 		birth = yes
+	}
+	486.1.1 = {
 		add_pressed_claim = title:e_wre
 		add_pressed_claim = title:e_byzantium
 		add_pressed_claim = title:k_italy
@@ -7443,12 +7465,16 @@
 	# Consul of 434
 	dynasty = 1042535
 	religion = "nicene"
-	culture = "romano_gothic"
+	culture = "ostrogothic"
 	390.1.1 = {
 		birth = yes
 	}
 	400.1.1 = {
 		employer = 70519
+		effect = {
+			learn_language = language_latin
+			learn_language = language_greek
+		}
 	}
 	449.1.1 = {
 		death = yes
@@ -7460,7 +7486,7 @@
 	# Consul of 461 and 462 [462 seems wrong - IhateTrains]
 	dynasty = 1042535
 	religion = "nicene"
-	culture = "romano_gothic"
+	culture = "roman"
 	father = 36611
 	430.1.1 = {
 		birth = yes
@@ -7478,10 +7504,11 @@
 	# Godisthea
 	female = yes
 	dynasty = 1042532
-	religion = "gothic_church"
+	religion = "arian"
 	culture = "roman"
 	father = 36596
-	440.1.1 = {
+	mother = AnthousaWifeOfArdaburius
+	445.1.1 = {
 		birth = yes
 	}
 	481.1.1 = {
@@ -7494,7 +7521,7 @@
 	# MVM per Orientem 503-504 (-?505), Consul of 506
 	dynasty = 1042535
 	religion = nicene
-	culture = "romano_gothic"
+	culture = "roman"
 	father = 36612
 	mother = 36613
 	trait = content
@@ -7524,7 +7551,7 @@
 	name = "Dagalaiphus"	# PLRE vol. 2 Dagalaiphus 1
 	dynasty = 1042535
 	religion = nicene
-	culture = "romano_gothic"
+	culture = "roman"
 	father = 36615
 	476.1.1 = {
 		birth = yes

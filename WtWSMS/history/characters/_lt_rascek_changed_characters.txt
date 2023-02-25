@@ -84,7 +84,7 @@
 		give_nickname = nick_augustulus #Starts being called Augustulus (diminuative of Augustus)
 		dynasty = 10424222 #Separate from his father's dynasty to avoid inheritence issues
 	}
-	511.1.1 = { death = yes }
+	515.1.1 = { death = yes }
 }
 96055 = {
 	name = "Orestes" # PLRE vol. 2 Orestes 2
@@ -145,7 +145,7 @@
 }
 #Armatus of Thrace
 1100013 = { #Flavius Armatus PLRE Vol 2 Armatus
-	name = "Armatus" # Sixth Governor of Thrace and half-brother of Hunulf and Odovacar
+	name = "Armatos" # Sixth Governor of Thrace and half-brother of Hunulf and Odovacar
 	religion = miaphysitism # Same as his mother
 	culture = greek 
 	father = 56 # Edeko
@@ -180,11 +180,13 @@
 	}
 }
 
-RomanoGallic000 = { #PLRE vol. 2 Iovinus 2 (a usrper)
-	name = "Iovinus" # PLRE vol. 2 Ardabur 3
+RomanoGallic000 = { #PLRE vol. 2 Iovinus 2 (an usurper)
+	name = "Iovinus"
 	#Gallo-Roman Senator, Roman Emperor Claimant 411-413
+	dynasty = romano_gallic_dynasty_valens
 	religion = "nicene"
 	culture = "romano_gallic"
+	father = JovinusPlaceholder
 	380.1.1 = { birth = yes }
 	413.1.1 = { death = yes }
 }
@@ -242,6 +244,7 @@ RomanoGallic000 = { #PLRE vol. 2 Iovinus 2 (a usrper)
 	father = 365817
 	425.1.1 = { birth = yes }
 	421.9.2 = { employer = 70533 }
+	445.1.1 = { add_spouse = AnthousaWifeOfArdaburius }
 	471.1.1 = {
 		trait = wounded_1
 		death = {
@@ -261,9 +264,6 @@ RomanoGallic000 = { #PLRE vol. 2 Iovinus 2 (a usrper)
 	435.1.1 = {
 		birth = yes
 		employer = 70533
-	}
-	441.1.1 = {
-		culture = roman
 	}
 	484.1.1 = { death = yes }
 }
@@ -336,7 +336,7 @@ RomanoGallic000 = { #PLRE vol. 2 Iovinus 2 (a usrper)
 	culture = "gothic"
 	450.1.1 = { birth = yes } # birth unknown
 	454.1.1 = { culture = thracian_gothic }
-	470.1.1 = { death = yes } # death unknown
+	485.1.1 = { death = yes } # death unknown
 }
 470055 = {
 	name = "Recitach" #PLRE vol. 2 Recitach

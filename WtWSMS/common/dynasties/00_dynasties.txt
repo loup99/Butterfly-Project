@@ -944,8 +944,8 @@
 	culture = "greek"
 }
 1022183 = {
-	name = "dynn_Phokas"
-	culture = "greek"
+	name = "dynn_Phocas"
+	culture = "romano_thracian"
 }
 1022184 = {
 	name = "dynn_Arabissinos"
@@ -1051,7 +1051,7 @@
 	forced_coa_religiongroup = "christian"
 }
 1022212 = {
-	name = "dynn_Calvinus"
+	name = "dynn_Caelius"
 	culture = "roman"
 	forced_coa_religiongroup = "christian"
 }
@@ -1679,7 +1679,7 @@
 	culture = "greek"
 }
 13100023 = {
-	name = "dynn_Athenites"
+	name = "dynn_Pomponios"
 	culture = "greek"
 }
 ###

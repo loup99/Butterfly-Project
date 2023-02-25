@@ -208,8 +208,8 @@
 
 ###c_bordeaux
 2142 = {	#BORDEAUX
-	culture = visigothic
-	religion = gothic_church
+	culture = romano_gallic
+	religion = nicene
 	holding = castle_holding #aka Burdigala
 }
 2141 = {	#MEDOC
@@ -223,8 +223,8 @@
 }
 ###c_agenais
 2232 = {	#AGEN
-	culture = visigothic
-	religion = gothic_church
+	culture = romano_gallic
+	religion = nicene
 	holding = castle_holding #aka Aginnum
 }
 2235 = {	#AGENAIS

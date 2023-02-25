@@ -3,17 +3,8 @@
 }
 
 #County-Level Development
-d_durocotorum = {
-	457.1.1={ 
-		holder=190015 # Aegidius
-		government = subroman_government
-	}
-	465.1.1={ 
-		holder=19 #Last Roman
-	}
-	486.1.1={
-		holder = 0
-	}
+d_durocotorum = { #Empty History
+	1.1.1={}
 }
 c_reims = {
 	#Development
@@ -34,6 +25,55 @@ c_reims = {
 		holder = 470048 # Remigus, Bishop of Reims
 		liege = "k_soissons"
 	}
+	486.1.1={
+		liege = k_franks
+	}
+	511.1.1={
+		liege = k_austrasia
+	}
+	533.1.13={
+		holder = 106525 # Theudebert Meroving  
+	}
+	548.1.1={
+		holder = 106529 # Theudebald Meroving 
+	}
+	555.1.1={
+		holder = 106522 # Chlothar Meroving
+	}
+	561.11.29={
+		holder = 231004 # Sigebert Meroving
+	}
+	575.1.1={
+		holder = 30010 # Childebert II Meroving
+	}
+	595.1.1={
+		holder = 30011 # Theudebert Meroving
+	}
+	612.1.1={
+		holder = 30014 # Theuderic II Meroving 
+	}
+	613.1.1={
+		holder = 30015 # Sigebert Meroving 
+	}
+	614.1.1={
+		holder = 30029 # Chlothar II Meroving 
+	}
+}
+c_chalons = {
+	#Development
+	1.1.1 = { change_development_level = 5 }
+	200.1.1 = { change_development_level = 10 }
+	400.1.1 = { change_development_level = 15 }
+	406.1.1 = { change_development_level = 8 } #Hun-mediated Invasion
+	452.1.1 = { change_development_level = 4 } #Battle of Catalaunian Plains (Hunnic Plunder)
+	486.1.1 = { change_development_level = 2 } #Conquest of Syragius and Sub-Roman government
+	511.1.1 = { change_development_level = 3 } #Kingdom of Neustria Founded
+	600.1.1 = { change_development_level = 4 }
+	700.1.1 = { change_development_level = 5 }
+	#Rulers
+	457.1.1 = { 
+		holder = 190015 # Aegidius
+	}
 	465.1.1 = { 
 		holder = 19 #Last Roman
 	}
@@ -71,7 +111,7 @@ c_reims = {
 		holder = 30029 # Chlothar II Meroving 
 	}
 }
-c_chalons = { #c_reims history (changed from c_chalons history)
+c_coulommiers = {
 	#Development
 	1.1.1 = { change_development_level = 5 }
 	200.1.1 = { change_development_level = 10 }
@@ -85,66 +125,6 @@ c_chalons = { #c_reims history (changed from c_chalons history)
 	#Rulers
 	457.1.1 = { 
 		holder = 190015 # Aegidius
-	}
-	459.1.1 = { 
-		holder = 470048 # Remigus, Bishop of Reims
-		liege = "k_soissons"
-	}
-	465.1.1 = { 
-		holder = 19 #Last Roman
-	}
-	486.1.1={
-		holder = 40
-	}
-	511.1.1={
-		holder = 106524 # Theuderic Meroving 
-	}
-	534.1.1={
-		holder = 106525 # Theudebert Meroving  
-	}
-	548.1.1={
-		holder = 106529 # Theudebald Meroving 
-	}
-	555.1.1={
-		holder = 106522 # Chlothar Meroving
-	}
-	561.11.29={
-		holder = 231004 # Sigebert Meroving
-	}
-	575.1.1={
-		holder = 30010 # Childebert II Meroving
-	}
-	595.1.1={
-		holder = 30011 # Theudebert Meroving
-	}
-	612.1.1={
-		holder = 30014 # Theuderic II Meroving 
-	}
-	613.1.1={
-		holder = 30015 # Sigebert Meroving 
-	}
-	614.1.1={
-		holder = 30029 # Chlothar II Meroving 
-	}
-}
-c_coulommiers = { #c_reims history
-	#Development
-	1.1.1 = { change_development_level = 5 }
-	200.1.1 = { change_development_level = 10 }
-	400.1.1 = { change_development_level = 15 }
-	406.1.1 = { change_development_level = 8 } #Hun-mediated Invasion
-	452.1.1 = { change_development_level = 4 } #Battle of Catalaunian Plains (Hunnic Plunder)
-	486.1.1 = { change_development_level = 2 } #Conquest of Syragius and Sub-Roman government
-	511.1.1 = { change_development_level = 3 } #Kingdom of Neustria Founded
-	600.1.1 = { change_development_level = 4 }
-	700.1.1 = { change_development_level = 5 }
-	#Rulers
-	457.1.1 = { 
-		holder = 190015 # Aegidius
-	}
-	459.1.1 = { 
-		holder = 470048 # Remigus, Bishop of Reims
-		liege = "k_soissons"
 	}
 	465.1.1 = { 
 		holder = 19 #Last Roman
@@ -195,11 +175,14 @@ c_rethel = { #c_vermandois history
 	600.1.1 = { change_development_level = 4 }
 	700.1.1 = { change_development_level = 5 }
 	#Rulers
-	460.1.1={
-		holder = 36109 # Ragnachar
+	457.1.1 = { 
+		holder = 190015 # Aegidius
 	}
-	509.1.1={
-		holder = 40 # Clovis
+	465.1.1 = { 
+		holder = 19 #Last Roman
+	}
+	486.1.1={
+		holder = 40
 	}
 	511.1.1={
 		holder = 106524 # Theuderic Meroving 
@@ -244,11 +227,14 @@ c_vermandois = {
 	600.1.1 = { change_development_level = 3 }
 	700.1.1 = { change_development_level = 4 }
 	#Rulers
-	460.1.1={
-		holder = 36109 # Ragnachar
+	457.1.1 = { 
+		holder = 190015 # Aegidius
 	}
-	509.1.1={
-		holder = 40 # Clovis
+	465.1.1 = { 
+		holder = 19 #Last Roman
+	}
+	486.1.1={
+		holder = 40
 	}
 	511.1.1={
 		holder = 106524 # Theuderic Meroving 
@@ -899,7 +885,7 @@ c_hainaut = {
 		holder = 30029 # Chlothar II Meroving
 	}
 }
-c_cambray = { #c_hainaut history
+c_cambray = {
 	#Development
 	1.1.1 = { change_development_level = 3 }
 	200.1.1 = { change_development_level = 6 }
@@ -911,10 +897,10 @@ c_cambray = { #c_hainaut history
 	600.1.1 = { change_development_level = 3 }
 	700.1.1 = { change_development_level = 4 }
 	#Rulers
-	457.1.1={
-		holder = 39 
+	460.1.1={
+		holder = 36109 # Ragnachar
 	}
-	481.1.1={
+	509.1.1={
 		holder = 40
 	}
 	511.1.1={

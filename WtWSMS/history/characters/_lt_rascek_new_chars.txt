@@ -91,7 +91,7 @@ CastilianSpecialChars000 = { #Brother of a Castilian king
 	diplomacy = 20 #Was an envoy to Attilla and experienced in affairs. Was elderly by the time of envoyship
 	375.1.1 = { birth = yes }
 	430.1.1 = {
-		add_spouse = 96055_wife_ancestor_1 # Barbaria daughter of Probianus Pompeianus
+		add_spouse = 96055_wife_ancestor_1 # Barbaria daughter of Vibius
 	}
 	450.1.1 = { death = yes } #Presumed died shortly after envoyship
 }
@@ -106,7 +106,7 @@ CastilianSpecialChars000 = { #Brother of a Castilian king
 	father = 96055_wife_father
 	mother = 96055_wife_ancestor_1
 	trait = zealous #Involved in founding a monestary
-	432.1.1 = { birth = yes }
+	440.1.1 = { birth = yes }
 	512.1.11 = { death = yes } #Latest possible mention is in 511
 }
 
@@ -116,6 +116,7 @@ CastilianSpecialChars000 = { #Brother of a Castilian king
 	religion = hellenic_pagan
 	culture = roman
 	dynasty = roman_dynasty_pompeius
+	father = SextusPompeius4	
 	-20.1.1 = { birth = yes }
 	40.1.1 = { death = yes }
 }
@@ -124,7 +125,9 @@ CastilianSpecialChars000 = { #Brother of a Castilian king
 	religion = hellenic_pagan
 	culture = roman
 	dynasty = 1042307
-	1.1.1 = { birth = yes }
+	father = MarcusLiciniusCrassusFrugi2
+	mother = ScriboniaWifeOfMarcusLiciniusCrassusFrugi
+	27.1.1 = { birth = yes }
 	67.4.1 = {
 		death = {
 			death_reason = death_execution
@@ -138,8 +141,9 @@ CastilianSpecialChars000 = { #Brother of a Castilian king
 	culture = roman
 	dynasty = 1042307
 	father = 1104514
-	45.1.1 = { birth = yes }
-	87.1.1 = { add_spouse = 1101002 }	
+	55.1.1 = { birth = yes }
+	75.1.1 = { add_spouse = VitelliaWifeOfLiboRupiliusFrugi }	
+	86.1.1 = { add_spouse = 1101002 }	
 	101.1.1 = { death = yes }
 }
 
@@ -158,7 +162,7 @@ GaiusMarius = { #Gaius Marius
 	-86.1.13 = { death = yes }
 }
 Sulla = { #Lucius Cornelius Sulla Felix
-	name = "Lucius"
+	name = "Sulla"
 	religion = hellenic_pagan
 	culture = roman
 	dynasty = roman_dynasty_cornelius_1
@@ -168,6 +172,8 @@ Sulla = { #Lucius Cornelius Sulla Felix
 	trait = arrogant
 	-138.1.1 = { birth = yes }
 	-110.1.1 = { add_spouse = 1008255 } #Ilia, Sister of consul of 90 BC
+	-88.1.1 = { add_spouse = CaeciliaMetella3 }
+	-79.1.1 = { add_spouse = ValeriaWifeOfSulla }	
 	-78.1.1 = { death = yes }
 }
 MarcAntony = {
@@ -179,10 +185,16 @@ MarcAntony = {
 	trait = ambitious
 	trait = diligent
 	trait = temperate
+	father = MarcusAntoniusCreticus
 	mother = 1008256
 	-83.1.14 = { birth = yes }
+	-54.1.1 = { add_spouse = AntoniaWifeOfMarkAntony }
+	-47.1.1 = { remove_spouse = AntoniaWifeOfMarkAntony }
 	-40.1.1 = { add_spouse = 1102500 }
-	-32.1.1 = { remove_spouse = 1102500 add_spouse = Cleopatra7 }
+	-32.1.1 = { 
+	    remove_spouse = 1102500 
+	    add_spouse = Cleopatra7 
+	}
 	-30.8.1 = { death = yes }
 }
 MarcusBrutus = {
@@ -197,7 +209,9 @@ MarcusBrutus = {
 	#Lifestyle
 	trait = schemer
 	father = MarcusJuniusBrutus5
+	mother = ServiliaTheElder
 	-85.1.1 = { birth = yes }
+	-45.1.1 = { add_spouse = PorciaWifeOfBrutus }	
 	-42.10.23 = { death = { death_reason = death_suicide } }
 }
 
@@ -205,14 +219,14 @@ GaiusAvidiusHeliodorus = { #Father of Avidius Cassius
 	name = "Heliodorus"
 	religion = hellenic_pagan
 	culture = romano_aramean
-	dynasty = roman_dynasty_avidius
+	dynasty = romano_aramean_dynasty_avidius
 	100.1.1 = { birth = yes }
 	120.1.1 = { add_spouse = 1102662 } #Iulia Cassia Alexandra
 	142.1.1 = { death = yes }
 }
 
 1301196_father = { #Father of PLRE vol. 3 Guntharis 2; given to make him Vandalic descent
-	name = "Guntharis"
+	name = "Guntharix"
 	religion = nicene
 	culture = vandalic
 	480.1.1 = { birth = yes }
