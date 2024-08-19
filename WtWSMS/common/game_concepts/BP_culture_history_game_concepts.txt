@@ -86,6 +86,7 @@ alano_vandalic_formation_year = {
 	shown_in_encyclopedia = no
 	texture = "gfx/interface/icons/faith/scythian_pagan.dds"
 }
+
 #Sources
 uscb_archeology = { shown_in_encyclopedia = no }
 strabo_source = { shown_in_encyclopedia = no }

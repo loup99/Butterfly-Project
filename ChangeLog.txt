@@ -1,3 +1,14 @@
+YYYY-MM-DD vA.B.C
+-----------
+Culture:
+- Changed Cultures:
+   - Baltic Heritage:
+      - Sudovian: Swapped Battlefield Looters for Xenophilic
+      - (Vistula) Veneti: Wetlanders and Polygamous, Stoic Ethos, Dneiper Baltic Language, Dneiper Baltic Namelist
+      - East Galindian: Dneiper Baltic Language, Dneiper Baltic Namelist
+- Reorganized Languages:
+   - Dnieper Baltic added for the (Vistula) Veneti and East Galindians, whose specific linguistic affiliation is only guessed
+
 2024-10-27 v0.1.5.2
 -----------
 General:
