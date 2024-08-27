@@ -40,6 +40,10 @@ GFX:
 - Monophysitism, Ethiopian Orthodoxy, and Monarchianism have the same impact as Miaphysitism on COAs
 - Christian faiths that have an anti-Jewish stance will not use Jewish COAs
 
+Localization:
+- Custom hybrids will now be ordered by Ruler Culture, then Target Culture
+   - That is, a Roman ruler hybridizing with Persian would yield "Romano-Persian" instead of "Perso-Roman"
+
 2025-01-12 v0.1.6
 -----------
 Culture:
@@ -367,7 +371,6 @@ Bug Fixes:
 - Fixed some missing language colors
 - Roman Empire should show up in the Senate window now
 - Fixed Sea showing up as plains in the Terrain GUI window
-
 
 2024-08-13 v0.1.5.1
 -----------
