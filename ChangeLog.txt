@@ -1,5 +1,8 @@
 YYYY-MM-DD vA.B.C
 -----------
+Mechanics:
+- "Culture Blending" tradition now encourages adoption of the ruler's heritage and language, even without a conqueror culture tradition
+
 Culture:
 - Changed Cultures:
    - Baltic Heritage:
