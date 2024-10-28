@@ -1,3 +1,49 @@
+YYYY-MM-DD vA.B.C
+-----------
+Mechanics:
+- "Culture Blending" tradition now encourages adoption of the ruler's heritage and language, even without a conqueror culture tradition
+
+Culture:
+- Changed Cultures:
+   - Baltic Heritage:
+      - Sudovian: Removed "Battlefield Looters", added "Xenophilic"
+      - (Vistula) Veneti: Wetlanders, Polygamous, and Culture Blending, Stoic Ethos, Dneiper Baltic Language, Dneiper Baltic Namelist
+      - East Galindian: Dneiper Baltic Language, Dneiper Baltic Namelist
+   - East Germanic:
+      - Extensive overhaul of relations, aesthetics, and traditions
+   - Other Cultures:
+      - (Old) Slavic: Removed "Druzhina" & "Collective Lands", Added "Early Slavic Warfare", "Early Slavic Traditions"
+      - Langobard: Removed "Tribal Hierarchy", Added "Isolationist"
+      - Dacian: Removed "Metalworkers", Added "Mountain Homes"
+- Reorganized Languages:
+   - Dnieper Baltic added for the (Vistula) Veneti and East Galindians, whose specific linguistic affiliation is only guessed
+- Ethnicities:
+   - Revisited Ethnic mixes for more consistency
+
+Traditions:
+- New Traditions:
+   - Early Slavic Traditions:
+      - Models the relatively flat, democratic structure of Early Slavic societies during their expansionary period
+      - Similar to Collective Lands
+      - Enables easier culture hybridization and divergence, as well as Conqueror cultural mechanics
+      - Enables faster conversion of unreformed faiths and of tribal cultures
+      - Is replaced by a new tradition upon leaving the tribal era, based on ethos
+   -  Early Slavic Warfare:
+      - Models the guerrilla, ambush tactics of the Slavs during their expansionary period
+      - Gives bonuses to fighting in woods and wetlands
+      - Makes it easier to carry out major migrations and provides more levies when doing so
+      - Is replaced by a new tradition upon leaving the tribal era, based on ethos
+
+GFX:
+- Created some COA and clothing triggers (not clothes assets, just triggers)
+- Iconclasm has the same impact on COAs as Aniconism
+- Monophysitism, Ethiopian Orthodoxy, and Monarchianism have the same impact as Miaphysitism on COAs
+- Christian faiths that have an anti-Jewish stance will not use Jewish COAs
+
+Localization:
+- Custom hybrids will now be ordered by Ruler Culture, then Target Culture
+   - That is, a Roman ruler hybridizing with Persian would yield "Romano-Persian" instead of "Perso-Roman"
+
 2024-10-27 v0.1.5.2
 -----------
 General:
